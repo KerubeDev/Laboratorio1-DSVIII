@@ -1,0 +1,30 @@
+14:44:28 [AVISO ] swap_activo        El sistema empezo a usar memoria de intercambio
+14:44:30 [AVISO ] nucleo_saturado    Nucleo 0 saturado (98.4%)
+14:44:30 [AVISO ] nucleo_saturado    Nucleo 1 saturado (98.2%)
+14:44:30 [AVISO ] nucleo_saturado    Nucleo 2 saturado (97.1%)
+14:44:30 [AVISO ] nucleo_saturado    Nucleo 3 saturado (98.1%)
+14:44:30 [AVISO ] nucleo_saturado    Nucleo 4 saturado (94.3%)
+14:44:30 [AVISO ] nucleo_saturado    Nucleo 5 saturado (97.2%)
+14:44:30 [AVISO ] nucleo_saturado    Nucleo 6 saturado (97.2%)
+14:44:30 [AVISO ] nucleo_saturado    Nucleo 7 saturado (96.3%)
+14:44:31 [ALERTA] cpu_alta           Carga alta sostenida: 85.5% (umbral 80.0%)
+14:44:33 [AVISO ] proceso_pesado     System Idle Process consume 152.1% de CPU
+14:44:33 [ALERTA] bateria_baja       Bateria baja: 11%
+14:44:40 [AVISO ] proceso_pesado     python3.11.exe consume 91.9% de CPU
+14:44:45 [AVISO ] proceso_pesado     git.exe consume 66.2% de CPU
+14:44:45 [INFO  ] nucleo_libre       Nucleo 1 liberado
+14:44:45 [INFO  ] nucleo_libre       Nucleo 2 liberado
+14:44:45 [INFO  ] nucleo_libre       Nucleo 5 liberado
+14:44:45 [INFO  ] nucleo_libre       Nucleo 7 liberado
+14:44:46 [INFO  ] nucleo_libre       Nucleo 0 liberado
+14:44:46 [INFO  ] nucleo_libre       Nucleo 3 liberado
+14:44:46 [INFO  ] nucleo_libre       Nucleo 4 liberado
+14:44:46 [INFO  ] nucleo_libre       Nucleo 6 liberado
+14:44:49 [AVISO ] proceso_pesado     System Idle Process consume 247.7% de CPU
+14:44:55 [INFO  ] proceso_cerrado    Proceso terminado: MoUsoCoreWorker.exe
+14:44:55 [AVISO ] proceso_pesado     System Idle Process consume 335.1% de CPU
+14:44:55 [INFO  ] reporte            Reporte guardado en bitacora.json (6 metricas)
+14:45:00 [AVISO ] proceso_pesado     System Idle Process consume 407.8% de CPU
+14:45:02 [AVISO ] nucleo_saturado    Nucleo 0 saturado (92.2%)
+14:45:03 [INFO  ] nucleo_libre       Nucleo 0 liberado
+14:45:05 [AVISO ] proceso_pesado     System Idle Process consume 248.1% de CPU

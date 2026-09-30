@@ -1,0 +1,8038 @@
+[
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 14:39:26",
+    "metricas": {
+      "cpu": {
+        "n": 1,
+        "min": 24.3,
+        "max": 24.3,
+        "prom": 24.3
+      },
+      "memoria": {
+        "n": 1,
+        "min": 67.8,
+        "max": 67.8,
+        "prom": 67.8
+      },
+      "red": {
+        "n": 1,
+        "min": 9.2,
+        "max": 9.2,
+        "prom": 9.2
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 14:39:29",
+    "metricas": {
+      "cpu": {
+        "n": 1,
+        "min": 24.7,
+        "max": 24.7,
+        "prom": 24.7
+      },
+      "memoria": {
+        "n": 1,
+        "min": 67.7,
+        "max": 67.7,
+        "prom": 67.7
+      },
+      "red": {
+        "n": 1,
+        "min": 259.9,
+        "max": 259.9,
+        "prom": 259.9
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 14:44:55",
+    "metricas": {
+      "cpu": {
+        "n": 16,
+        "min": 48.5,
+        "max": 100.0,
+        "prom": 80.89
+      },
+      "memoria": {
+        "n": 16,
+        "min": 71.1,
+        "max": 74.0,
+        "prom": 71.92
+      },
+      "red": {
+        "n": 16,
+        "min": 2.8,
+        "max": 20.6,
+        "prom": 9.03
+      },
+      "disco": {
+        "n": 5,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 5,
+        "min": 276,
+        "max": 285,
+        "prom": 280.2
+      },
+      "bateria": {
+        "n": 5,
+        "min": 10,
+        "max": 11,
+        "prom": 10.4
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 14:49:43",
+    "metricas": {
+      "cpu": {
+        "n": 8,
+        "min": 0.0,
+        "max": 30.8,
+        "prom": 18.42
+      },
+      "memoria": {
+        "n": 8,
+        "min": 69.2,
+        "max": 69.5,
+        "prom": 69.31
+      },
+      "red": {
+        "n": 8,
+        "min": 9.0,
+        "max": 60.5,
+        "prom": 21.59
+      },
+      "disco": {
+        "n": 1,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 1,
+        "min": 279,
+        "max": 279,
+        "prom": 279.0
+      },
+      "bateria": {
+        "n": 1,
+        "min": 12,
+        "max": 12,
+        "prom": 12.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 14:49:43",
+    "metricas": {}
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 14:51:23",
+    "metricas": {
+      "cpu": {
+        "n": 27,
+        "min": 0.0,
+        "max": 50.3,
+        "prom": 15.87
+      },
+      "memoria": {
+        "n": 27,
+        "min": 69.4,
+        "max": 71.4,
+        "prom": 70.6
+      },
+      "red": {
+        "n": 27,
+        "min": 4.0,
+        "max": 70.8,
+        "prom": 16.84
+      },
+      "disco": {
+        "n": 5,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 5,
+        "min": 275,
+        "max": 281,
+        "prom": 278.6
+      },
+      "bateria": {
+        "n": 5,
+        "min": 14,
+        "max": 14,
+        "prom": 14.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 14:51:34",
+    "metricas": {
+      "cpu": {
+        "n": 10,
+        "min": 3.3,
+        "max": 21.8,
+        "prom": 12.64
+      },
+      "memoria": {
+        "n": 10,
+        "min": 70.0,
+        "max": 70.7,
+        "prom": 70.47
+      },
+      "red": {
+        "n": 10,
+        "min": 4.0,
+        "max": 18.0,
+        "prom": 9.22
+      },
+      "disco": {
+        "n": 3,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 2,
+        "min": 281,
+        "max": 281,
+        "prom": 281.0
+      },
+      "bateria": {
+        "n": 2,
+        "min": 14,
+        "max": 14,
+        "prom": 14.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 14:51:36",
+    "metricas": {
+      "cpu": {
+        "n": 2,
+        "min": 14.1,
+        "max": 16.7,
+        "prom": 15.4
+      },
+      "memoria": {
+        "n": 2,
+        "min": 70.0,
+        "max": 70.0,
+        "prom": 70.0
+      },
+      "red": {
+        "n": 2,
+        "min": 9.4,
+        "max": 14.9,
+        "prom": 12.15
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 14:51:37",
+    "metricas": {}
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 14:51:53",
+    "metricas": {
+      "cpu": {
+        "n": 8,
+        "min": 8.4,
+        "max": 22.3,
+        "prom": 12.88
+      },
+      "memoria": {
+        "n": 8,
+        "min": 69.4,
+        "max": 70.1,
+        "prom": 69.79
+      },
+      "red": {
+        "n": 8,
+        "min": 6.1,
+        "max": 13.5,
+        "prom": 11.2
+      },
+      "disco": {
+        "n": 3,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 3,
+        "min": 275,
+        "max": 278,
+        "prom": 277.0
+      },
+      "bateria": {
+        "n": 3,
+        "min": 14,
+        "max": 15,
+        "prom": 14.33
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 14:52:23",
+    "metricas": {
+      "cpu": {
+        "n": 27,
+        "min": 4.7,
+        "max": 48.8,
+        "prom": 23.94
+      },
+      "memoria": {
+        "n": 27,
+        "min": 69.4,
+        "max": 74.0,
+        "prom": 71.08
+      },
+      "red": {
+        "n": 27,
+        "min": 4.0,
+        "max": 25.6,
+        "prom": 10.24
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 273,
+        "max": 280,
+        "prom": 276.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 15,
+        "max": 15,
+        "prom": 15.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 14:52:53",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 6.7,
+        "max": 59.1,
+        "prom": 21.5
+      },
+      "memoria": {
+        "n": 28,
+        "min": 71.4,
+        "max": 73.2,
+        "prom": 72.24
+      },
+      "red": {
+        "n": 28,
+        "min": 6.3,
+        "max": 4510.4,
+        "prom": 177.88
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 277,
+        "max": 284,
+        "prom": 282.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 15,
+        "max": 15,
+        "prom": 15.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 14:53:24",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 3.3,
+        "max": 32.3,
+        "prom": 11.62
+      },
+      "memoria": {
+        "n": 29,
+        "min": 70.8,
+        "max": 71.6,
+        "prom": 71.16
+      },
+      "red": {
+        "n": 29,
+        "min": 4.3,
+        "max": 417.8,
+        "prom": 25.27
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 281,
+        "max": 283,
+        "prom": 281.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 16,
+        "max": 16,
+        "prom": 16.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 14:53:54",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 5.2,
+        "max": 74.3,
+        "prom": 31.39
+      },
+      "memoria": {
+        "n": 28,
+        "min": 71.2,
+        "max": 74.9,
+        "prom": 72.43
+      },
+      "red": {
+        "n": 28,
+        "min": 3.9,
+        "max": 827.8,
+        "prom": 93.12
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 282,
+        "max": 289,
+        "prom": 285.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 16,
+        "max": 17,
+        "prom": 16.33
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 14:54:25",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 3.4,
+        "max": 25.0,
+        "prom": 12.57
+      },
+      "memoria": {
+        "n": 28,
+        "min": 72.9,
+        "max": 74.4,
+        "prom": 73.78
+      },
+      "red": {
+        "n": 28,
+        "min": 4.7,
+        "max": 160.8,
+        "prom": 29.2
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 288,
+        "max": 289,
+        "prom": 288.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 17,
+        "max": 17,
+        "prom": 17.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 14:54:56",
+    "metricas": {
+      "cpu": {
+        "n": 27,
+        "min": 4.2,
+        "max": 41.1,
+        "prom": 12.08
+      },
+      "memoria": {
+        "n": 27,
+        "min": 72.5,
+        "max": 72.9,
+        "prom": 72.68
+      },
+      "red": {
+        "n": 27,
+        "min": 5.6,
+        "max": 88.0,
+        "prom": 20.71
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 285,
+        "max": 288,
+        "prom": 286.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 17,
+        "max": 18,
+        "prom": 17.33
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 14:55:27",
+    "metricas": {
+      "cpu": {
+        "n": 27,
+        "min": 3.4,
+        "max": 26.2,
+        "prom": 10.09
+      },
+      "memoria": {
+        "n": 27,
+        "min": 72.2,
+        "max": 72.8,
+        "prom": 72.51
+      },
+      "red": {
+        "n": 27,
+        "min": 4.7,
+        "max": 22.5,
+        "prom": 12.41
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 285,
+        "max": 288,
+        "prom": 286.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 18,
+        "max": 18,
+        "prom": 18.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 14:55:57",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 3.4,
+        "max": 19.2,
+        "prom": 8.62
+      },
+      "memoria": {
+        "n": 24,
+        "min": 72.0,
+        "max": 72.2,
+        "prom": 72.07
+      },
+      "red": {
+        "n": 24,
+        "min": 3.7,
+        "max": 24.4,
+        "prom": 10.2
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 285,
+        "max": 285,
+        "prom": 285.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 18,
+        "max": 19,
+        "prom": 18.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 14:56:28",
+    "metricas": {
+      "cpu": {
+        "n": 27,
+        "min": 5.3,
+        "max": 57.8,
+        "prom": 24.43
+      },
+      "memoria": {
+        "n": 27,
+        "min": 72.3,
+        "max": 75.6,
+        "prom": 73.63
+      },
+      "red": {
+        "n": 27,
+        "min": 5.4,
+        "max": 35.3,
+        "prom": 16.08
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 287,
+        "max": 292,
+        "prom": 289.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 19,
+        "max": 19,
+        "prom": 19.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 14:56:58",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 5.6,
+        "max": 45.1,
+        "prom": 15.84
+      },
+      "memoria": {
+        "n": 29,
+        "min": 72.3,
+        "max": 75.7,
+        "prom": 73.76
+      },
+      "red": {
+        "n": 29,
+        "min": 2.3,
+        "max": 19.5,
+        "prom": 9.98
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 284,
+        "max": 291,
+        "prom": 286.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 19,
+        "max": 20,
+        "prom": 19.33
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 14:57:28",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 3.1,
+        "max": 81.5,
+        "prom": 16.01
+      },
+      "memoria": {
+        "n": 28,
+        "min": 71.8,
+        "max": 72.6,
+        "prom": 72.04
+      },
+      "red": {
+        "n": 28,
+        "min": 2.6,
+        "max": 38.1,
+        "prom": 12.94
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 284,
+        "max": 289,
+        "prom": 284.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 20,
+        "max": 20,
+        "prom": 20.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 14:57:59",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 4.8,
+        "max": 22.2,
+        "prom": 11.31
+      },
+      "memoria": {
+        "n": 28,
+        "min": 70.7,
+        "max": 72.5,
+        "prom": 70.99
+      },
+      "red": {
+        "n": 28,
+        "min": 3.3,
+        "max": 362.2,
+        "prom": 26.25
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 282,
+        "max": 283,
+        "prom": 282.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 20,
+        "max": 21,
+        "prom": 20.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 14:58:29",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 4.2,
+        "max": 21.4,
+        "prom": 11.03
+      },
+      "memoria": {
+        "n": 29,
+        "min": 70.7,
+        "max": 71.1,
+        "prom": 70.89
+      },
+      "red": {
+        "n": 29,
+        "min": 4.0,
+        "max": 23.0,
+        "prom": 10.67
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 282,
+        "max": 282,
+        "prom": 282.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 21,
+        "max": 21,
+        "prom": 21.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 14:59:00",
+    "metricas": {
+      "cpu": {
+        "n": 30,
+        "min": 4.2,
+        "max": 22.7,
+        "prom": 11.41
+      },
+      "memoria": {
+        "n": 30,
+        "min": 69.8,
+        "max": 70.9,
+        "prom": 70.14
+      },
+      "red": {
+        "n": 30,
+        "min": 1.5,
+        "max": 21.0,
+        "prom": 10.23
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 282,
+        "max": 282,
+        "prom": 282.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 21,
+        "max": 22,
+        "prom": 21.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 14:59:30",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 3.8,
+        "max": 28.8,
+        "prom": 13.61
+      },
+      "memoria": {
+        "n": 28,
+        "min": 69.8,
+        "max": 70.6,
+        "prom": 70.27
+      },
+      "red": {
+        "n": 28,
+        "min": 3.3,
+        "max": 39.9,
+        "prom": 13.35
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 281,
+        "max": 282,
+        "prom": 281.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 22,
+        "max": 22,
+        "prom": 22.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:00:01",
+    "metricas": {
+      "cpu": {
+        "n": 30,
+        "min": 7.8,
+        "max": 49.6,
+        "prom": 26.27
+      },
+      "memoria": {
+        "n": 30,
+        "min": 69.8,
+        "max": 75.0,
+        "prom": 71.75
+      },
+      "red": {
+        "n": 30,
+        "min": 4.7,
+        "max": 1034.7,
+        "prom": 90.03
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 281,
+        "max": 284,
+        "prom": 282.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 22,
+        "max": 23,
+        "prom": 22.67
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:00:32",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 11.4,
+        "max": 33.1,
+        "prom": 18.65
+      },
+      "memoria": {
+        "n": 28,
+        "min": 70.4,
+        "max": 72.3,
+        "prom": 70.94
+      },
+      "red": {
+        "n": 28,
+        "min": 3.6,
+        "max": 70.8,
+        "prom": 21.99
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 281,
+        "max": 281,
+        "prom": 281.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 23,
+        "max": 23,
+        "prom": 23.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:01:02",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 10.0,
+        "max": 26.7,
+        "prom": 18.99
+      },
+      "memoria": {
+        "n": 29,
+        "min": 70.2,
+        "max": 70.8,
+        "prom": 70.47
+      },
+      "red": {
+        "n": 29,
+        "min": 7.0,
+        "max": 50.2,
+        "prom": 27.14
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 280,
+        "max": 281,
+        "prom": 280.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 23,
+        "max": 24,
+        "prom": 23.67
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:01:33",
+    "metricas": {
+      "cpu": {
+        "n": 30,
+        "min": 10.9,
+        "max": 40.3,
+        "prom": 22.53
+      },
+      "memoria": {
+        "n": 30,
+        "min": 70.3,
+        "max": 71.4,
+        "prom": 70.93
+      },
+      "red": {
+        "n": 30,
+        "min": 9.9,
+        "max": 191.3,
+        "prom": 31.31
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 280,
+        "max": 288,
+        "prom": 286.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 24,
+        "max": 24,
+        "prom": 24.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:02:03",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 7.9,
+        "max": 55.7,
+        "prom": 23.78
+      },
+      "memoria": {
+        "n": 29,
+        "min": 71.0,
+        "max": 72.0,
+        "prom": 71.54
+      },
+      "red": {
+        "n": 29,
+        "min": 3.6,
+        "max": 1190.9,
+        "prom": 161.26
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 284,
+        "max": 287,
+        "prom": 285.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 24,
+        "max": 25,
+        "prom": 24.67
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:02:34",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 3.7,
+        "max": 39.1,
+        "prom": 15.98
+      },
+      "memoria": {
+        "n": 29,
+        "min": 71.2,
+        "max": 72.1,
+        "prom": 71.59
+      },
+      "red": {
+        "n": 29,
+        "min": 1.3,
+        "max": 134.9,
+        "prom": 23.2
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 282,
+        "max": 284,
+        "prom": 282.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 25,
+        "max": 25,
+        "prom": 25.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:03:04",
+    "metricas": {
+      "cpu": {
+        "n": 30,
+        "min": 7.8,
+        "max": 46.4,
+        "prom": 25.03
+      },
+      "memoria": {
+        "n": 30,
+        "min": 71.3,
+        "max": 75.7,
+        "prom": 73.05
+      },
+      "red": {
+        "n": 30,
+        "min": 1.2,
+        "max": 103.2,
+        "prom": 13.28
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 282,
+        "max": 286,
+        "prom": 284.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 25,
+        "max": 26,
+        "prom": 25.83
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:03:35",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 3.1,
+        "max": 25.1,
+        "prom": 11.65
+      },
+      "memoria": {
+        "n": 29,
+        "min": 71.5,
+        "max": 73.6,
+        "prom": 72.49
+      },
+      "red": {
+        "n": 29,
+        "min": 2.2,
+        "max": 21.2,
+        "prom": 9.58
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 279,
+        "max": 283,
+        "prom": 280.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 26,
+        "max": 26,
+        "prom": 26.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:04:06",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 3.2,
+        "max": 22.7,
+        "prom": 13.18
+      },
+      "memoria": {
+        "n": 29,
+        "min": 71.4,
+        "max": 71.9,
+        "prom": 71.63
+      },
+      "red": {
+        "n": 29,
+        "min": 2.9,
+        "max": 26.4,
+        "prom": 8.81
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 279,
+        "max": 280,
+        "prom": 279.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 26,
+        "max": 27,
+        "prom": 26.83
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:04:36",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 6.3,
+        "max": 51.2,
+        "prom": 18.77
+      },
+      "memoria": {
+        "n": 29,
+        "min": 71.6,
+        "max": 72.1,
+        "prom": 71.9
+      },
+      "red": {
+        "n": 29,
+        "min": 0.7,
+        "max": 1157.7,
+        "prom": 90.91
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 279,
+        "max": 280,
+        "prom": 279.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 27,
+        "max": 27,
+        "prom": 27.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:05:07",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 8.4,
+        "max": 69.7,
+        "prom": 23.09
+      },
+      "memoria": {
+        "n": 29,
+        "min": 71.9,
+        "max": 74.1,
+        "prom": 72.61
+      },
+      "red": {
+        "n": 29,
+        "min": 2.8,
+        "max": 1211.3,
+        "prom": 113.82
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 284,
+        "max": 284,
+        "prom": 284.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 28,
+        "max": 28,
+        "prom": 28.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:05:37",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 9.6,
+        "max": 53.7,
+        "prom": 22.47
+      },
+      "memoria": {
+        "n": 29,
+        "min": 72.1,
+        "max": 73.1,
+        "prom": 72.62
+      },
+      "red": {
+        "n": 29,
+        "min": 3.8,
+        "max": 1209.1,
+        "prom": 111.84
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 283,
+        "max": 286,
+        "prom": 284.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 28,
+        "max": 29,
+        "prom": 28.17
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:06:08",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 2.9,
+        "max": 23.9,
+        "prom": 11.24
+      },
+      "memoria": {
+        "n": 28,
+        "min": 71.1,
+        "max": 72.9,
+        "prom": 71.45
+      },
+      "red": {
+        "n": 28,
+        "min": 1.8,
+        "max": 20.0,
+        "prom": 7.83
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 283,
+        "max": 286,
+        "prom": 283.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 29,
+        "max": 29,
+        "prom": 29.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:06:38",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.7,
+        "max": 38.0,
+        "prom": 14.09
+      },
+      "memoria": {
+        "n": 29,
+        "min": 71.0,
+        "max": 74.4,
+        "prom": 72.33
+      },
+      "red": {
+        "n": 29,
+        "min": 1.6,
+        "max": 418.8,
+        "prom": 27.39
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 282,
+        "max": 285,
+        "prom": 283.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 29,
+        "max": 29,
+        "prom": 29.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:07:08",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.7,
+        "max": 15.7,
+        "prom": 7.3
+      },
+      "memoria": {
+        "n": 29,
+        "min": 70.9,
+        "max": 71.1,
+        "prom": 70.97
+      },
+      "red": {
+        "n": 29,
+        "min": 4.1,
+        "max": 21.6,
+        "prom": 9.3
+      },
+      "disco": {
+        "n": 5,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 5,
+        "min": 281,
+        "max": 282,
+        "prom": 281.8
+      },
+      "bateria": {
+        "n": 5,
+        "min": 30,
+        "max": 30,
+        "prom": 30.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:07:38",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.5,
+        "max": 70.1,
+        "prom": 11.21
+      },
+      "memoria": {
+        "n": 29,
+        "min": 69.6,
+        "max": 71.4,
+        "prom": 70.63
+      },
+      "red": {
+        "n": 29,
+        "min": 1.2,
+        "max": 37.7,
+        "prom": 7.0
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 281,
+        "max": 281,
+        "prom": 281.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 30,
+        "max": 30,
+        "prom": 30.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:08:08",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 3.2,
+        "max": 16.1,
+        "prom": 7.44
+      },
+      "memoria": {
+        "n": 29,
+        "min": 69.7,
+        "max": 69.9,
+        "prom": 69.78
+      },
+      "red": {
+        "n": 29,
+        "min": 1.6,
+        "max": 113.7,
+        "prom": 12.92
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 279,
+        "max": 281,
+        "prom": 279.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 31,
+        "max": 31,
+        "prom": 31.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:08:38",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.1,
+        "max": 18.7,
+        "prom": 7.33
+      },
+      "memoria": {
+        "n": 29,
+        "min": 69.8,
+        "max": 70.2,
+        "prom": 69.99
+      },
+      "red": {
+        "n": 29,
+        "min": 2.9,
+        "max": 36.0,
+        "prom": 10.16
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 279,
+        "max": 279,
+        "prom": 279.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 31,
+        "max": 32,
+        "prom": 31.17
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:09:08",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.5,
+        "max": 58.8,
+        "prom": 15.32
+      },
+      "memoria": {
+        "n": 29,
+        "min": 66.9,
+        "max": 70.6,
+        "prom": 68.82
+      },
+      "red": {
+        "n": 29,
+        "min": 1.8,
+        "max": 52.5,
+        "prom": 10.85
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 279,
+        "max": 292,
+        "prom": 284.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 32,
+        "max": 32,
+        "prom": 32.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:09:38",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 4.8,
+        "max": 38.8,
+        "prom": 17.84
+      },
+      "memoria": {
+        "n": 28,
+        "min": 68.4,
+        "max": 72.1,
+        "prom": 69.58
+      },
+      "red": {
+        "n": 28,
+        "min": 1.5,
+        "max": 24.8,
+        "prom": 8.38
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 289,
+        "max": 293,
+        "prom": 291.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 32,
+        "max": 33,
+        "prom": 32.33
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:10:09",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 2.8,
+        "max": 15.8,
+        "prom": 6.9
+      },
+      "memoria": {
+        "n": 28,
+        "min": 68.0,
+        "max": 68.9,
+        "prom": 68.37
+      },
+      "red": {
+        "n": 28,
+        "min": 2.8,
+        "max": 21.5,
+        "prom": 8.07
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 287,
+        "max": 289,
+        "prom": 287.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 33,
+        "max": 33,
+        "prom": 33.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:10:39",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 2.9,
+        "max": 32.2,
+        "prom": 9.17
+      },
+      "memoria": {
+        "n": 28,
+        "min": 68.3,
+        "max": 68.6,
+        "prom": 68.35
+      },
+      "red": {
+        "n": 28,
+        "min": 2.8,
+        "max": 27.0,
+        "prom": 10.61
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 286,
+        "max": 287,
+        "prom": 286.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 33,
+        "max": 34,
+        "prom": 33.33
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:11:09",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 2.1,
+        "max": 17.1,
+        "prom": 6.86
+      },
+      "memoria": {
+        "n": 28,
+        "min": 68.2,
+        "max": 68.5,
+        "prom": 68.31
+      },
+      "red": {
+        "n": 28,
+        "min": 0.8,
+        "max": 424.1,
+        "prom": 25.49
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 285,
+        "max": 286,
+        "prom": 285.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 34,
+        "max": 34,
+        "prom": 34.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:11:39",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.6,
+        "max": 18.5,
+        "prom": 8.07
+      },
+      "memoria": {
+        "n": 29,
+        "min": 68.1,
+        "max": 68.5,
+        "prom": 68.38
+      },
+      "red": {
+        "n": 29,
+        "min": 4.8,
+        "max": 39.4,
+        "prom": 15.24
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 283,
+        "max": 285,
+        "prom": 284.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 34,
+        "max": 35,
+        "prom": 34.33
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:12:10",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.3,
+        "max": 18.5,
+        "prom": 6.68
+      },
+      "memoria": {
+        "n": 29,
+        "min": 68.4,
+        "max": 68.6,
+        "prom": 68.42
+      },
+      "red": {
+        "n": 29,
+        "min": 2.0,
+        "max": 25.3,
+        "prom": 11.2
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 280,
+        "max": 284,
+        "prom": 282.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 35,
+        "max": 35,
+        "prom": 35.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:12:41",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 1.7,
+        "max": 28.1,
+        "prom": 14.84
+      },
+      "memoria": {
+        "n": 29,
+        "min": 66.7,
+        "max": 71.0,
+        "prom": 68.63
+      },
+      "red": {
+        "n": 29,
+        "min": 1.7,
+        "max": 19.8,
+        "prom": 10.57
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 280,
+        "max": 283,
+        "prom": 281.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 35,
+        "max": 36,
+        "prom": 35.33
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:13:10",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 2.7,
+        "max": 27.8,
+        "prom": 8.66
+      },
+      "memoria": {
+        "n": 28,
+        "min": 67.3,
+        "max": 68.8,
+        "prom": 68.2
+      },
+      "red": {
+        "n": 28,
+        "min": 3.5,
+        "max": 93.2,
+        "prom": 17.2
+      },
+      "disco": {
+        "n": 5,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 5,
+        "min": 280,
+        "max": 280,
+        "prom": 280.0
+      },
+      "bateria": {
+        "n": 5,
+        "min": 36,
+        "max": 36,
+        "prom": 36.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:13:40",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 3.5,
+        "max": 16.3,
+        "prom": 7.5
+      },
+      "memoria": {
+        "n": 29,
+        "min": 67.3,
+        "max": 67.5,
+        "prom": 67.4
+      },
+      "red": {
+        "n": 29,
+        "min": 3.1,
+        "max": 41.7,
+        "prom": 13.9
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 280,
+        "max": 280,
+        "prom": 280.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 36,
+        "max": 37,
+        "prom": 36.33
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:14:11",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 0.8,
+        "max": 16.0,
+        "prom": 6.92
+      },
+      "memoria": {
+        "n": 29,
+        "min": 67.3,
+        "max": 67.5,
+        "prom": 67.43
+      },
+      "red": {
+        "n": 29,
+        "min": 1.5,
+        "max": 36.5,
+        "prom": 11.47
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 279,
+        "max": 280,
+        "prom": 279.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 37,
+        "max": 37,
+        "prom": 37.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:14:41",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.3,
+        "max": 20.5,
+        "prom": 7.26
+      },
+      "memoria": {
+        "n": 29,
+        "min": 67.4,
+        "max": 67.6,
+        "prom": 67.47
+      },
+      "red": {
+        "n": 29,
+        "min": 1.4,
+        "max": 18.2,
+        "prom": 6.56
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 278,
+        "max": 279,
+        "prom": 278.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 37,
+        "max": 38,
+        "prom": 37.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:15:11",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.1,
+        "max": 18.2,
+        "prom": 7.24
+      },
+      "memoria": {
+        "n": 29,
+        "min": 67.4,
+        "max": 67.5,
+        "prom": 67.42
+      },
+      "red": {
+        "n": 29,
+        "min": 2.9,
+        "max": 30.7,
+        "prom": 10.71
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 278,
+        "max": 278,
+        "prom": 278.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 38,
+        "max": 38,
+        "prom": 38.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:15:41",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.3,
+        "max": 25.3,
+        "prom": 7.87
+      },
+      "memoria": {
+        "n": 29,
+        "min": 67.3,
+        "max": 67.8,
+        "prom": 67.43
+      },
+      "red": {
+        "n": 29,
+        "min": 1.6,
+        "max": 389.1,
+        "prom": 23.12
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 278,
+        "max": 281,
+        "prom": 278.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 38,
+        "max": 39,
+        "prom": 38.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:16:12",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.9,
+        "max": 35.9,
+        "prom": 17.6
+      },
+      "memoria": {
+        "n": 29,
+        "min": 68.1,
+        "max": 71.6,
+        "prom": 69.74
+      },
+      "red": {
+        "n": 29,
+        "min": 2.7,
+        "max": 335.8,
+        "prom": 20.68
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 278,
+        "max": 281,
+        "prom": 280.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 39,
+        "max": 39,
+        "prom": 39.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:16:42",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 4.2,
+        "max": 34.3,
+        "prom": 14.38
+      },
+      "memoria": {
+        "n": 29,
+        "min": 69.8,
+        "max": 70.7,
+        "prom": 70.0
+      },
+      "red": {
+        "n": 29,
+        "min": 3.0,
+        "max": 43.2,
+        "prom": 12.49
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 281,
+        "max": 282,
+        "prom": 281.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 39,
+        "max": 40,
+        "prom": 39.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:17:13",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 3.1,
+        "max": 21.0,
+        "prom": 8.96
+      },
+      "memoria": {
+        "n": 29,
+        "min": 69.8,
+        "max": 70.0,
+        "prom": 69.86
+      },
+      "red": {
+        "n": 29,
+        "min": 1.1,
+        "max": 40.2,
+        "prom": 10.67
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 278,
+        "max": 283,
+        "prom": 280.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 40,
+        "max": 40,
+        "prom": 40.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:17:42",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 2.1,
+        "max": 69.2,
+        "prom": 12.04
+      },
+      "memoria": {
+        "n": 28,
+        "min": 68.9,
+        "max": 70.3,
+        "prom": 69.62
+      },
+      "red": {
+        "n": 28,
+        "min": 4.9,
+        "max": 29.1,
+        "prom": 13.39
+      },
+      "disco": {
+        "n": 5,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 5,
+        "min": 277,
+        "max": 278,
+        "prom": 277.6
+      },
+      "bateria": {
+        "n": 5,
+        "min": 40,
+        "max": 41,
+        "prom": 40.4
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:18:12",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.3,
+        "max": 14.6,
+        "prom": 7.65
+      },
+      "memoria": {
+        "n": 29,
+        "min": 69.0,
+        "max": 69.1,
+        "prom": 69.0
+      },
+      "red": {
+        "n": 29,
+        "min": 4.5,
+        "max": 104.8,
+        "prom": 16.9
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 276,
+        "max": 277,
+        "prom": 276.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 41,
+        "max": 41,
+        "prom": 41.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:18:42",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.5,
+        "max": 24.6,
+        "prom": 7.9
+      },
+      "memoria": {
+        "n": 29,
+        "min": 69.0,
+        "max": 69.2,
+        "prom": 69.08
+      },
+      "red": {
+        "n": 29,
+        "min": 1.2,
+        "max": 19.1,
+        "prom": 7.77
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 276,
+        "max": 276,
+        "prom": 276.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 41,
+        "max": 42,
+        "prom": 41.33
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:19:12",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.9,
+        "max": 38.5,
+        "prom": 15.81
+      },
+      "memoria": {
+        "n": 29,
+        "min": 69.1,
+        "max": 72.0,
+        "prom": 69.94
+      },
+      "red": {
+        "n": 29,
+        "min": 4.2,
+        "max": 32.0,
+        "prom": 11.62
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 275,
+        "max": 278,
+        "prom": 276.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 42,
+        "max": 42,
+        "prom": 42.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:19:43",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.3,
+        "max": 17.8,
+        "prom": 8.25
+      },
+      "memoria": {
+        "n": 29,
+        "min": 69.5,
+        "max": 70.3,
+        "prom": 69.76
+      },
+      "red": {
+        "n": 29,
+        "min": 1.7,
+        "max": 24.8,
+        "prom": 11.97
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 275,
+        "max": 275,
+        "prom": 275.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 42,
+        "max": 43,
+        "prom": 42.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:20:13",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.5,
+        "max": 26.7,
+        "prom": 11.35
+      },
+      "memoria": {
+        "n": 29,
+        "min": 69.2,
+        "max": 70.3,
+        "prom": 69.81
+      },
+      "red": {
+        "n": 29,
+        "min": 5.1,
+        "max": 430.0,
+        "prom": 27.33
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 275,
+        "max": 276,
+        "prom": 275.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 43,
+        "max": 43,
+        "prom": 43.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:20:43",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.7,
+        "max": 16.6,
+        "prom": 7.02
+      },
+      "memoria": {
+        "n": 29,
+        "min": 69.2,
+        "max": 69.4,
+        "prom": 69.32
+      },
+      "red": {
+        "n": 29,
+        "min": 6.8,
+        "max": 29.4,
+        "prom": 14.37
+      },
+      "disco": {
+        "n": 5,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 5,
+        "min": 275,
+        "max": 275,
+        "prom": 275.0
+      },
+      "bateria": {
+        "n": 5,
+        "min": 43,
+        "max": 44,
+        "prom": 43.2
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:21:13",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.3,
+        "max": 14.4,
+        "prom": 7.08
+      },
+      "memoria": {
+        "n": 29,
+        "min": 69.3,
+        "max": 69.4,
+        "prom": 69.3
+      },
+      "red": {
+        "n": 29,
+        "min": 7.0,
+        "max": 23.3,
+        "prom": 13.96
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 275,
+        "max": 275,
+        "prom": 275.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 44,
+        "max": 44,
+        "prom": 44.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:21:43",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 1.7,
+        "max": 18.9,
+        "prom": 8.31
+      },
+      "memoria": {
+        "n": 29,
+        "min": 69.4,
+        "max": 69.7,
+        "prom": 69.61
+      },
+      "red": {
+        "n": 29,
+        "min": 3.3,
+        "max": 29.2,
+        "prom": 14.35
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 275,
+        "max": 276,
+        "prom": 275.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 44,
+        "max": 45,
+        "prom": 44.17
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:22:13",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 3.1,
+        "max": 27.1,
+        "prom": 10.51
+      },
+      "memoria": {
+        "n": 29,
+        "min": 69.5,
+        "max": 71.1,
+        "prom": 69.75
+      },
+      "red": {
+        "n": 29,
+        "min": 4.0,
+        "max": 28.6,
+        "prom": 10.76
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 275,
+        "max": 278,
+        "prom": 276.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 45,
+        "max": 45,
+        "prom": 45.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:22:43",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 2.3,
+        "max": 43.3,
+        "prom": 14.36
+      },
+      "memoria": {
+        "n": 28,
+        "min": 69.4,
+        "max": 73.2,
+        "prom": 70.73
+      },
+      "red": {
+        "n": 28,
+        "min": 4.3,
+        "max": 109.3,
+        "prom": 19.79
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 277,
+        "max": 280,
+        "prom": 277.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 45,
+        "max": 46,
+        "prom": 45.33
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:23:13",
+    "metricas": {
+      "cpu": {
+        "n": 30,
+        "min": 3.2,
+        "max": 52.6,
+        "prom": 18.6
+      },
+      "memoria": {
+        "n": 30,
+        "min": 69.8,
+        "max": 71.4,
+        "prom": 70.82
+      },
+      "red": {
+        "n": 30,
+        "min": 2.2,
+        "max": 103.3,
+        "prom": 13.74
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 282,
+        "max": 283,
+        "prom": 282.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 46,
+        "max": 46,
+        "prom": 46.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:23:44",
+    "metricas": {
+      "cpu": {
+        "n": 27,
+        "min": 2.5,
+        "max": 30.0,
+        "prom": 15.26
+      },
+      "memoria": {
+        "n": 27,
+        "min": 70.3,
+        "max": 70.7,
+        "prom": 70.52
+      },
+      "red": {
+        "n": 27,
+        "min": 4.9,
+        "max": 383.2,
+        "prom": 22.24
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 278,
+        "max": 279,
+        "prom": 278.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 46,
+        "max": 47,
+        "prom": 46.33
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:24:15",
+    "metricas": {
+      "cpu": {
+        "n": 27,
+        "min": 4.8,
+        "max": 23.3,
+        "prom": 12.05
+      },
+      "memoria": {
+        "n": 27,
+        "min": 70.1,
+        "max": 71.1,
+        "prom": 70.61
+      },
+      "red": {
+        "n": 27,
+        "min": 2.5,
+        "max": 34.9,
+        "prom": 10.29
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 280,
+        "max": 280,
+        "prom": 280.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 47,
+        "max": 47,
+        "prom": 47.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:24:45",
+    "metricas": {
+      "cpu": {
+        "n": 27,
+        "min": 5.1,
+        "max": 54.6,
+        "prom": 23.31
+      },
+      "memoria": {
+        "n": 27,
+        "min": 70.0,
+        "max": 72.6,
+        "prom": 71.94
+      },
+      "red": {
+        "n": 27,
+        "min": 2.4,
+        "max": 987.5,
+        "prom": 85.66
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 283,
+        "max": 287,
+        "prom": 284.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 47,
+        "max": 48,
+        "prom": 47.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:25:16",
+    "metricas": {
+      "cpu": {
+        "n": 27,
+        "min": 3.2,
+        "max": 28.4,
+        "prom": 12.03
+      },
+      "memoria": {
+        "n": 27,
+        "min": 70.8,
+        "max": 72.5,
+        "prom": 71.44
+      },
+      "red": {
+        "n": 27,
+        "min": 5.2,
+        "max": 25.9,
+        "prom": 12.71
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 281,
+        "max": 284,
+        "prom": 282.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 48,
+        "max": 48,
+        "prom": 48.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:25:46",
+    "metricas": {
+      "cpu": {
+        "n": 25,
+        "min": 3.2,
+        "max": 38.8,
+        "prom": 15.9
+      },
+      "memoria": {
+        "n": 25,
+        "min": 69.6,
+        "max": 71.6,
+        "prom": 70.55
+      },
+      "red": {
+        "n": 25,
+        "min": 3.9,
+        "max": 23.7,
+        "prom": 12.74
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 281,
+        "max": 285,
+        "prom": 281.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 48,
+        "max": 49,
+        "prom": 48.33
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:26:17",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 5.2,
+        "max": 48.5,
+        "prom": 20.19
+      },
+      "memoria": {
+        "n": 29,
+        "min": 69.7,
+        "max": 74.2,
+        "prom": 71.06
+      },
+      "red": {
+        "n": 29,
+        "min": 2.5,
+        "max": 25.0,
+        "prom": 11.15
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 279,
+        "max": 284,
+        "prom": 281.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 49,
+        "max": 49,
+        "prom": 49.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:26:47",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 6.3,
+        "max": 48.1,
+        "prom": 19.62
+      },
+      "memoria": {
+        "n": 28,
+        "min": 69.1,
+        "max": 70.7,
+        "prom": 69.63
+      },
+      "red": {
+        "n": 28,
+        "min": 2.8,
+        "max": 1213.9,
+        "prom": 60.31
+      },
+      "disco": {
+        "n": 5,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 5,
+        "min": 279,
+        "max": 279,
+        "prom": 279.0
+      },
+      "bateria": {
+        "n": 5,
+        "min": 49,
+        "max": 50,
+        "prom": 49.2
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:27:17",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 3.1,
+        "max": 42.4,
+        "prom": 13.13
+      },
+      "memoria": {
+        "n": 29,
+        "min": 69.6,
+        "max": 71.2,
+        "prom": 70.2
+      },
+      "red": {
+        "n": 29,
+        "min": 3.2,
+        "max": 89.4,
+        "prom": 17.18
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 279,
+        "max": 279,
+        "prom": 279.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 50,
+        "max": 50,
+        "prom": 50.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:27:47",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 6.0,
+        "max": 51.1,
+        "prom": 20.64
+      },
+      "memoria": {
+        "n": 28,
+        "min": 69.4,
+        "max": 70.9,
+        "prom": 70.02
+      },
+      "red": {
+        "n": 28,
+        "min": 2.4,
+        "max": 1074.1,
+        "prom": 62.2
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 279,
+        "max": 279,
+        "prom": 279.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 50,
+        "max": 51,
+        "prom": 50.17
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:28:17",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 7.5,
+        "max": 34.8,
+        "prom": 15.38
+      },
+      "memoria": {
+        "n": 29,
+        "min": 70.0,
+        "max": 70.5,
+        "prom": 70.18
+      },
+      "red": {
+        "n": 29,
+        "min": 3.3,
+        "max": 15.2,
+        "prom": 9.09
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 278,
+        "max": 278,
+        "prom": 278.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 51,
+        "max": 51,
+        "prom": 51.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:28:47",
+    "metricas": {
+      "cpu": {
+        "n": 27,
+        "min": 6.9,
+        "max": 34.3,
+        "prom": 18.73
+      },
+      "memoria": {
+        "n": 27,
+        "min": 70.4,
+        "max": 72.1,
+        "prom": 70.97
+      },
+      "red": {
+        "n": 27,
+        "min": 2.8,
+        "max": 1202.2,
+        "prom": 103.11
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 278,
+        "max": 278,
+        "prom": 278.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 51,
+        "max": 52,
+        "prom": 51.33
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:29:17",
+    "metricas": {
+      "cpu": {
+        "n": 25,
+        "min": 11.5,
+        "max": 48.9,
+        "prom": 25.79
+      },
+      "memoria": {
+        "n": 25,
+        "min": 71.2,
+        "max": 73.9,
+        "prom": 72.2
+      },
+      "red": {
+        "n": 25,
+        "min": 6.7,
+        "max": 1210.4,
+        "prom": 116.5
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 278,
+        "max": 278,
+        "prom": 278.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 52,
+        "max": 52,
+        "prom": 52.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:29:47",
+    "metricas": {
+      "cpu": {
+        "n": 26,
+        "min": 10.7,
+        "max": 74.4,
+        "prom": 41.69
+      },
+      "memoria": {
+        "n": 26,
+        "min": 70.6,
+        "max": 73.4,
+        "prom": 71.89
+      },
+      "red": {
+        "n": 26,
+        "min": 1.4,
+        "max": 1244.5,
+        "prom": 77.28
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 278,
+        "max": 282,
+        "prom": 280.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 52,
+        "max": 52,
+        "prom": 52.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:30:17",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 7.9,
+        "max": 36.7,
+        "prom": 19.95
+      },
+      "memoria": {
+        "n": 28,
+        "min": 68.5,
+        "max": 70.0,
+        "prom": 69.15
+      },
+      "red": {
+        "n": 28,
+        "min": 10.2,
+        "max": 229.3,
+        "prom": 32.87
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 278,
+        "max": 278,
+        "prom": 278.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 52,
+        "max": 53,
+        "prom": 52.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:30:47",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 12.0,
+        "max": 38.3,
+        "prom": 20.54
+      },
+      "memoria": {
+        "n": 28,
+        "min": 66.1,
+        "max": 68.9,
+        "prom": 66.96
+      },
+      "red": {
+        "n": 28,
+        "min": 8.1,
+        "max": 132.3,
+        "prom": 26.99
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 278,
+        "max": 278,
+        "prom": 278.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 53,
+        "max": 53,
+        "prom": 53.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:31:17",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 11.7,
+        "max": 42.5,
+        "prom": 21.07
+      },
+      "memoria": {
+        "n": 28,
+        "min": 66.2,
+        "max": 66.9,
+        "prom": 66.46
+      },
+      "red": {
+        "n": 28,
+        "min": 19.4,
+        "max": 100.1,
+        "prom": 28.66
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 278,
+        "max": 278,
+        "prom": 278.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 53,
+        "max": 54,
+        "prom": 53.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:31:47",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 9.0,
+        "max": 32.4,
+        "prom": 19.74
+      },
+      "memoria": {
+        "n": 28,
+        "min": 66.9,
+        "max": 67.7,
+        "prom": 67.34
+      },
+      "red": {
+        "n": 28,
+        "min": 5.4,
+        "max": 100.1,
+        "prom": 25.56
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 278,
+        "max": 278,
+        "prom": 278.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 54,
+        "max": 54,
+        "prom": 54.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:32:18",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 12.9,
+        "max": 46.1,
+        "prom": 22.1
+      },
+      "memoria": {
+        "n": 29,
+        "min": 67.0,
+        "max": 67.7,
+        "prom": 67.4
+      },
+      "red": {
+        "n": 29,
+        "min": 6.3,
+        "max": 1279.1,
+        "prom": 113.19
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 277,
+        "max": 278,
+        "prom": 277.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 54,
+        "max": 55,
+        "prom": 54.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:32:48",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 9.4,
+        "max": 46.3,
+        "prom": 24.96
+      },
+      "memoria": {
+        "n": 29,
+        "min": 67.4,
+        "max": 70.0,
+        "prom": 67.94
+      },
+      "red": {
+        "n": 29,
+        "min": 1.1,
+        "max": 832.2,
+        "prom": 55.51
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 278,
+        "max": 285,
+        "prom": 280.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 55,
+        "max": 55,
+        "prom": 55.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:33:48",
+    "metricas": {
+      "cpu": {
+        "n": 12,
+        "min": 0.0,
+        "max": 22.5,
+        "prom": 16.47
+      },
+      "memoria": {
+        "n": 12,
+        "min": 66.9,
+        "max": 67.2,
+        "prom": 67.01
+      },
+      "red": {
+        "n": 12,
+        "min": 4.5,
+        "max": 251.7,
+        "prom": 43.66
+      },
+      "disco": {
+        "n": 2,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 2,
+        "min": 279,
+        "max": 279,
+        "prom": 279.0
+      },
+      "bateria": {
+        "n": 2,
+        "min": 56,
+        "max": 56,
+        "prom": 56.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:35:36",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 0.0,
+        "max": 36.1,
+        "prom": 13.47
+      },
+      "memoria": {
+        "n": 28,
+        "min": 63.7,
+        "max": 65.1,
+        "prom": 64.29
+      },
+      "red": {
+        "n": 28,
+        "min": 2.1,
+        "max": 29.5,
+        "prom": 11.85
+      },
+      "disco": {
+        "n": 5,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 5,
+        "min": 275,
+        "max": 276,
+        "prom": 275.8
+      },
+      "bateria": {
+        "n": 5,
+        "min": 57,
+        "max": 58,
+        "prom": 57.6
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:36:03",
+    "metricas": {
+      "cpu": {
+        "n": 26,
+        "min": 7.2,
+        "max": 33.2,
+        "prom": 16.53
+      },
+      "memoria": {
+        "n": 26,
+        "min": 63.9,
+        "max": 64.5,
+        "prom": 64.15
+      },
+      "red": {
+        "n": 26,
+        "min": 5.9,
+        "max": 17.8,
+        "prom": 12.09
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 272,
+        "max": 275,
+        "prom": 273.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 58,
+        "max": 58,
+        "prom": 58.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:36:06",
+    "metricas": {
+      "cpu": {
+        "n": 2,
+        "min": 9.2,
+        "max": 11.4,
+        "prom": 10.3
+      },
+      "memoria": {
+        "n": 2,
+        "min": 64.3,
+        "max": 64.3,
+        "prom": 64.3
+      },
+      "red": {
+        "n": 2,
+        "min": 4.4,
+        "max": 7.2,
+        "prom": 5.8
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:36:36",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.7,
+        "max": 48.9,
+        "prom": 13.26
+      },
+      "memoria": {
+        "n": 29,
+        "min": 64.3,
+        "max": 65.1,
+        "prom": 64.82
+      },
+      "red": {
+        "n": 29,
+        "min": 1.7,
+        "max": 29.9,
+        "prom": 11.49
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 272,
+        "max": 273,
+        "prom": 272.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 58,
+        "max": 58,
+        "prom": 58.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:37:06",
+    "metricas": {
+      "cpu": {
+        "n": 25,
+        "min": 2.4,
+        "max": 22.4,
+        "prom": 8.83
+      },
+      "memoria": {
+        "n": 25,
+        "min": 64.9,
+        "max": 65.1,
+        "prom": 65.01
+      },
+      "red": {
+        "n": 25,
+        "min": 2.4,
+        "max": 29.2,
+        "prom": 12.57
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 272,
+        "max": 272,
+        "prom": 272.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 59,
+        "max": 59,
+        "prom": 59.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:37:36",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 3.8,
+        "max": 62.8,
+        "prom": 11.21
+      },
+      "memoria": {
+        "n": 29,
+        "min": 64.2,
+        "max": 65.8,
+        "prom": 65.05
+      },
+      "red": {
+        "n": 29,
+        "min": 2.4,
+        "max": 33.7,
+        "prom": 16.01
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 271,
+        "max": 272,
+        "prom": 271.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 59,
+        "max": 59,
+        "prom": 59.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:38:06",
+    "metricas": {
+      "cpu": {
+        "n": 27,
+        "min": 3.6,
+        "max": 19.6,
+        "prom": 9.44
+      },
+      "memoria": {
+        "n": 27,
+        "min": 64.1,
+        "max": 64.7,
+        "prom": 64.55
+      },
+      "red": {
+        "n": 27,
+        "min": 7.5,
+        "max": 95.1,
+        "prom": 17.85
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 271,
+        "max": 271,
+        "prom": 271.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 59,
+        "max": 60,
+        "prom": 59.83
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:38:36",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 3.8,
+        "max": 19.3,
+        "prom": 9.48
+      },
+      "memoria": {
+        "n": 28,
+        "min": 64.1,
+        "max": 64.3,
+        "prom": 64.24
+      },
+      "red": {
+        "n": 28,
+        "min": 7.5,
+        "max": 403.7,
+        "prom": 30.57
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 271,
+        "max": 271,
+        "prom": 271.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 60,
+        "max": 60,
+        "prom": 60.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:39:07",
+    "metricas": {
+      "cpu": {
+        "n": 27,
+        "min": 4.2,
+        "max": 19.5,
+        "prom": 9.64
+      },
+      "memoria": {
+        "n": 27,
+        "min": 64.2,
+        "max": 64.4,
+        "prom": 64.29
+      },
+      "red": {
+        "n": 27,
+        "min": 7.3,
+        "max": 25.2,
+        "prom": 13.82
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 271,
+        "max": 273,
+        "prom": 271.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 60,
+        "max": 61,
+        "prom": 60.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:39:37",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 4.1,
+        "max": 27.3,
+        "prom": 10.09
+      },
+      "memoria": {
+        "n": 28,
+        "min": 64.2,
+        "max": 64.5,
+        "prom": 64.37
+      },
+      "red": {
+        "n": 28,
+        "min": 3.5,
+        "max": 16.3,
+        "prom": 10.01
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 272,
+        "max": 273,
+        "prom": 272.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 61,
+        "max": 61,
+        "prom": 61.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:40:08",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 3.2,
+        "max": 51.3,
+        "prom": 23.79
+      },
+      "memoria": {
+        "n": 28,
+        "min": 64.2,
+        "max": 69.6,
+        "prom": 65.9
+      },
+      "red": {
+        "n": 28,
+        "min": 1.8,
+        "max": 25.8,
+        "prom": 9.51
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 272,
+        "max": 275,
+        "prom": 274.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 61,
+        "max": 62,
+        "prom": 61.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:40:38",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 5.1,
+        "max": 50.4,
+        "prom": 21.78
+      },
+      "memoria": {
+        "n": 29,
+        "min": 65.1,
+        "max": 66.5,
+        "prom": 65.67
+      },
+      "red": {
+        "n": 29,
+        "min": 3.2,
+        "max": 881.1,
+        "prom": 69.27
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 272,
+        "max": 272,
+        "prom": 272.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 62,
+        "max": 62,
+        "prom": 62.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:41:08",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 4.5,
+        "max": 28.4,
+        "prom": 14.05
+      },
+      "memoria": {
+        "n": 28,
+        "min": 65.2,
+        "max": 65.7,
+        "prom": 65.46
+      },
+      "red": {
+        "n": 28,
+        "min": 5.4,
+        "max": 25.2,
+        "prom": 12.19
+      },
+      "disco": {
+        "n": 5,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 5,
+        "min": 272,
+        "max": 272,
+        "prom": 272.0
+      },
+      "bateria": {
+        "n": 5,
+        "min": 62,
+        "max": 62,
+        "prom": 62.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:41:38",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 3.1,
+        "max": 22.9,
+        "prom": 9.52
+      },
+      "memoria": {
+        "n": 29,
+        "min": 65.2,
+        "max": 65.4,
+        "prom": 65.34
+      },
+      "red": {
+        "n": 29,
+        "min": 2.0,
+        "max": 25.1,
+        "prom": 12.51
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 272,
+        "max": 272,
+        "prom": 272.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 62,
+        "max": 63,
+        "prom": 62.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:42:08",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 3.1,
+        "max": 27.4,
+        "prom": 11.26
+      },
+      "memoria": {
+        "n": 29,
+        "min": 65.4,
+        "max": 66.4,
+        "prom": 66.14
+      },
+      "red": {
+        "n": 29,
+        "min": 1.0,
+        "max": 15.1,
+        "prom": 7.09
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 272,
+        "max": 272,
+        "prom": 272.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 63,
+        "max": 63,
+        "prom": 63.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:42:38",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 4.3,
+        "max": 27.7,
+        "prom": 13.46
+      },
+      "memoria": {
+        "n": 29,
+        "min": 65.7,
+        "max": 66.8,
+        "prom": 66.5
+      },
+      "red": {
+        "n": 29,
+        "min": 4.5,
+        "max": 28.2,
+        "prom": 11.53
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 272,
+        "max": 272,
+        "prom": 272.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 63,
+        "max": 64,
+        "prom": 63.17
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:43:08",
+    "metricas": {
+      "cpu": {
+        "n": 26,
+        "min": 3.0,
+        "max": 18.4,
+        "prom": 9.33
+      },
+      "memoria": {
+        "n": 26,
+        "min": 65.6,
+        "max": 65.7,
+        "prom": 65.66
+      },
+      "red": {
+        "n": 26,
+        "min": 3.8,
+        "max": 407.7,
+        "prom": 31.13
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 272,
+        "max": 272,
+        "prom": 272.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 64,
+        "max": 64,
+        "prom": 64.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:43:38",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 4.1,
+        "max": 24.0,
+        "prom": 10.37
+      },
+      "memoria": {
+        "n": 28,
+        "min": 65.7,
+        "max": 66.0,
+        "prom": 65.85
+      },
+      "red": {
+        "n": 28,
+        "min": 2.7,
+        "max": 35.2,
+        "prom": 15.23
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 272,
+        "max": 272,
+        "prom": 272.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 64,
+        "max": 64,
+        "prom": 64.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:44:09",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 2.8,
+        "max": 16.1,
+        "prom": 7.39
+      },
+      "memoria": {
+        "n": 28,
+        "min": 65.9,
+        "max": 65.9,
+        "prom": 65.9
+      },
+      "red": {
+        "n": 28,
+        "min": 1.8,
+        "max": 28.8,
+        "prom": 12.86
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 272,
+        "max": 272,
+        "prom": 272.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 64,
+        "max": 65,
+        "prom": 64.83
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:44:39",
+    "metricas": {
+      "cpu": {
+        "n": 27,
+        "min": 2.8,
+        "max": 18.3,
+        "prom": 8.52
+      },
+      "memoria": {
+        "n": 27,
+        "min": 65.8,
+        "max": 66.0,
+        "prom": 65.92
+      },
+      "red": {
+        "n": 27,
+        "min": 3.7,
+        "max": 36.3,
+        "prom": 11.87
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 272,
+        "max": 272,
+        "prom": 272.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 65,
+        "max": 65,
+        "prom": 65.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:45:10",
+    "metricas": {
+      "cpu": {
+        "n": 27,
+        "min": 3.4,
+        "max": 19.6,
+        "prom": 9.3
+      },
+      "memoria": {
+        "n": 27,
+        "min": 65.9,
+        "max": 66.0,
+        "prom": 65.95
+      },
+      "red": {
+        "n": 27,
+        "min": 4.2,
+        "max": 27.8,
+        "prom": 14.43
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 272,
+        "max": 272,
+        "prom": 272.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 65,
+        "max": 66,
+        "prom": 65.17
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:45:41",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 3.2,
+        "max": 21.6,
+        "prom": 10.28
+      },
+      "memoria": {
+        "n": 29,
+        "min": 65.6,
+        "max": 66.1,
+        "prom": 65.83
+      },
+      "red": {
+        "n": 29,
+        "min": 6.9,
+        "max": 32.8,
+        "prom": 14.24
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 272,
+        "max": 272,
+        "prom": 272.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 66,
+        "max": 66,
+        "prom": 66.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:46:12",
+    "metricas": {
+      "cpu": {
+        "n": 27,
+        "min": 3.1,
+        "max": 21.4,
+        "prom": 9.89
+      },
+      "memoria": {
+        "n": 27,
+        "min": 65.7,
+        "max": 65.9,
+        "prom": 65.78
+      },
+      "red": {
+        "n": 27,
+        "min": 6.4,
+        "max": 22.7,
+        "prom": 13.86
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 272,
+        "max": 278,
+        "prom": 274.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 66,
+        "max": 66,
+        "prom": 66.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:46:42",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 2.7,
+        "max": 24.9,
+        "prom": 10.41
+      },
+      "memoria": {
+        "n": 28,
+        "min": 65.8,
+        "max": 66.2,
+        "prom": 65.99
+      },
+      "red": {
+        "n": 28,
+        "min": 4.5,
+        "max": 22.3,
+        "prom": 12.94
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 272,
+        "max": 273,
+        "prom": 272.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 66,
+        "max": 67,
+        "prom": 66.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:47:13",
+    "metricas": {
+      "cpu": {
+        "n": 27,
+        "min": 4.9,
+        "max": 20.0,
+        "prom": 9.6
+      },
+      "memoria": {
+        "n": 27,
+        "min": 66.0,
+        "max": 66.3,
+        "prom": 66.18
+      },
+      "red": {
+        "n": 27,
+        "min": 3.9,
+        "max": 412.3,
+        "prom": 31.65
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 273,
+        "max": 274,
+        "prom": 273.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 67,
+        "max": 67,
+        "prom": 67.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:47:43",
+    "metricas": {
+      "cpu": {
+        "n": 26,
+        "min": 3.2,
+        "max": 59.3,
+        "prom": 12.42
+      },
+      "memoria": {
+        "n": 26,
+        "min": 65.6,
+        "max": 67.1,
+        "prom": 66.22
+      },
+      "red": {
+        "n": 26,
+        "min": 6.5,
+        "max": 39.4,
+        "prom": 20.16
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 273,
+        "max": 274,
+        "prom": 273.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 67,
+        "max": 67,
+        "prom": 67.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:48:14",
+    "metricas": {
+      "cpu": {
+        "n": 27,
+        "min": 8.8,
+        "max": 24.0,
+        "prom": 15.11
+      },
+      "memoria": {
+        "n": 27,
+        "min": 65.7,
+        "max": 65.8,
+        "prom": 65.71
+      },
+      "red": {
+        "n": 27,
+        "min": 9.3,
+        "max": 106.0,
+        "prom": 18.61
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 272,
+        "max": 273,
+        "prom": 272.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 67,
+        "max": 68,
+        "prom": 67.67
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:48:44",
+    "metricas": {
+      "cpu": {
+        "n": 27,
+        "min": 3.8,
+        "max": 20.0,
+        "prom": 11.18
+      },
+      "memoria": {
+        "n": 27,
+        "min": 65.7,
+        "max": 66.0,
+        "prom": 65.78
+      },
+      "red": {
+        "n": 27,
+        "min": 1.9,
+        "max": 16.0,
+        "prom": 8.55
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 272,
+        "max": 272,
+        "prom": 272.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 68,
+        "max": 68,
+        "prom": 68.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:49:15",
+    "metricas": {
+      "cpu": {
+        "n": 27,
+        "min": 3.4,
+        "max": 18.1,
+        "prom": 9.91
+      },
+      "memoria": {
+        "n": 27,
+        "min": 65.7,
+        "max": 65.8,
+        "prom": 65.74
+      },
+      "red": {
+        "n": 27,
+        "min": 2.4,
+        "max": 22.2,
+        "prom": 7.96
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 271,
+        "max": 271,
+        "prom": 271.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 68,
+        "max": 68,
+        "prom": 68.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:49:45",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 3.8,
+        "max": 23.6,
+        "prom": 10.38
+      },
+      "memoria": {
+        "n": 28,
+        "min": 65.7,
+        "max": 66.1,
+        "prom": 65.96
+      },
+      "red": {
+        "n": 28,
+        "min": 1.8,
+        "max": 21.4,
+        "prom": 6.71
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 271,
+        "max": 271,
+        "prom": 271.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 68,
+        "max": 69,
+        "prom": 68.83
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:50:16",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 3.2,
+        "max": 23.5,
+        "prom": 9.17
+      },
+      "memoria": {
+        "n": 28,
+        "min": 66.1,
+        "max": 66.7,
+        "prom": 66.41
+      },
+      "red": {
+        "n": 28,
+        "min": 0.8,
+        "max": 15.2,
+        "prom": 8.93
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 271,
+        "max": 271,
+        "prom": 271.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 69,
+        "max": 69,
+        "prom": 69.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:50:47",
+    "metricas": {
+      "cpu": {
+        "n": 26,
+        "min": 4.7,
+        "max": 17.7,
+        "prom": 9.52
+      },
+      "memoria": {
+        "n": 26,
+        "min": 66.4,
+        "max": 66.9,
+        "prom": 66.62
+      },
+      "red": {
+        "n": 26,
+        "min": 3.2,
+        "max": 14.9,
+        "prom": 9.59
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 271,
+        "max": 271,
+        "prom": 271.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 69,
+        "max": 70,
+        "prom": 69.17
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:51:17",
+    "metricas": {
+      "cpu": {
+        "n": 26,
+        "min": 4.9,
+        "max": 27.9,
+        "prom": 14.07
+      },
+      "memoria": {
+        "n": 26,
+        "min": 66.3,
+        "max": 67.1,
+        "prom": 66.54
+      },
+      "red": {
+        "n": 26,
+        "min": 3.3,
+        "max": 31.6,
+        "prom": 10.6
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 271,
+        "max": 273,
+        "prom": 271.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 70,
+        "max": 70,
+        "prom": 70.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:51:48",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 7.6,
+        "max": 58.5,
+        "prom": 20.99
+      },
+      "memoria": {
+        "n": 28,
+        "min": 67.6,
+        "max": 68.9,
+        "prom": 67.99
+      },
+      "red": {
+        "n": 28,
+        "min": 1.6,
+        "max": 404.0,
+        "prom": 34.62
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 281,
+        "max": 282,
+        "prom": 281.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 70,
+        "max": 70,
+        "prom": 70.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:52:18",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 4.1,
+        "max": 29.7,
+        "prom": 15.05
+      },
+      "memoria": {
+        "n": 28,
+        "min": 67.4,
+        "max": 67.9,
+        "prom": 67.63
+      },
+      "red": {
+        "n": 28,
+        "min": 2.3,
+        "max": 37.6,
+        "prom": 10.25
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 280,
+        "max": 281,
+        "prom": 280.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 70,
+        "max": 71,
+        "prom": 70.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:52:49",
+    "metricas": {
+      "cpu": {
+        "n": 27,
+        "min": 3.4,
+        "max": 41.8,
+        "prom": 21.19
+      },
+      "memoria": {
+        "n": 27,
+        "min": 67.6,
+        "max": 69.1,
+        "prom": 67.99
+      },
+      "red": {
+        "n": 27,
+        "min": 2.6,
+        "max": 111.6,
+        "prom": 20.59
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 280,
+        "max": 283,
+        "prom": 281.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 71,
+        "max": 71,
+        "prom": 71.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:53:19",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 4.4,
+        "max": 47.6,
+        "prom": 18.1
+      },
+      "memoria": {
+        "n": 28,
+        "min": 67.0,
+        "max": 70.1,
+        "prom": 67.89
+      },
+      "red": {
+        "n": 28,
+        "min": 2.8,
+        "max": 32.4,
+        "prom": 12.21
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 279,
+        "max": 279,
+        "prom": 279.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 71,
+        "max": 71,
+        "prom": 71.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:53:50",
+    "metricas": {
+      "cpu": {
+        "n": 27,
+        "min": 8.7,
+        "max": 32.3,
+        "prom": 14.78
+      },
+      "memoria": {
+        "n": 27,
+        "min": 67.1,
+        "max": 67.5,
+        "prom": 67.23
+      },
+      "red": {
+        "n": 27,
+        "min": 2.4,
+        "max": 64.6,
+        "prom": 13.43
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 279,
+        "max": 280,
+        "prom": 279.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 71,
+        "max": 72,
+        "prom": 71.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:54:21",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 7.6,
+        "max": 24.9,
+        "prom": 14.25
+      },
+      "memoria": {
+        "n": 28,
+        "min": 67.4,
+        "max": 67.7,
+        "prom": 67.54
+      },
+      "red": {
+        "n": 28,
+        "min": 5.1,
+        "max": 26.1,
+        "prom": 13.78
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 279,
+        "max": 281,
+        "prom": 280.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 72,
+        "max": 72,
+        "prom": 72.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:54:51",
+    "metricas": {
+      "cpu": {
+        "n": 27,
+        "min": 10.4,
+        "max": 47.3,
+        "prom": 23.12
+      },
+      "memoria": {
+        "n": 27,
+        "min": 66.0,
+        "max": 69.9,
+        "prom": 66.99
+      },
+      "red": {
+        "n": 27,
+        "min": 6.9,
+        "max": 1579.1,
+        "prom": 144.26
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 277,
+        "max": 282,
+        "prom": 278.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 72,
+        "max": 72,
+        "prom": 72.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:55:22",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 10.9,
+        "max": 52.3,
+        "prom": 26.26
+      },
+      "memoria": {
+        "n": 28,
+        "min": 70.6,
+        "max": 73.6,
+        "prom": 72.02
+      },
+      "red": {
+        "n": 28,
+        "min": 9.5,
+        "max": 879.2,
+        "prom": 336.67
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 280,
+        "max": 282,
+        "prom": 281.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 72,
+        "max": 73,
+        "prom": 72.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:55:52",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 18.0,
+        "max": 46.4,
+        "prom": 29.54
+      },
+      "memoria": {
+        "n": 28,
+        "min": 73.2,
+        "max": 76.2,
+        "prom": 74.59
+      },
+      "red": {
+        "n": 28,
+        "min": 71.7,
+        "max": 1329.5,
+        "prom": 567.21
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 279,
+        "max": 281,
+        "prom": 280.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 73,
+        "max": 73,
+        "prom": 73.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:56:23",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 13.1,
+        "max": 41.1,
+        "prom": 21.44
+      },
+      "memoria": {
+        "n": 28,
+        "min": 73.8,
+        "max": 74.8,
+        "prom": 74.35
+      },
+      "red": {
+        "n": 28,
+        "min": 6.0,
+        "max": 791.4,
+        "prom": 148.38
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 279,
+        "max": 281,
+        "prom": 279.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 73,
+        "max": 73,
+        "prom": 73.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:56:53",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 6.4,
+        "max": 34.8,
+        "prom": 17.35
+      },
+      "memoria": {
+        "n": 28,
+        "min": 73.7,
+        "max": 74.7,
+        "prom": 74.09
+      },
+      "red": {
+        "n": 28,
+        "min": 1.4,
+        "max": 2032.4,
+        "prom": 259.18
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 279,
+        "max": 280,
+        "prom": 279.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 73,
+        "max": 74,
+        "prom": 73.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:57:24",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 5.1,
+        "max": 34.7,
+        "prom": 21.52
+      },
+      "memoria": {
+        "n": 29,
+        "min": 74.0,
+        "max": 75.9,
+        "prom": 75.06
+      },
+      "red": {
+        "n": 29,
+        "min": 6.7,
+        "max": 1399.4,
+        "prom": 438.42
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 279,
+        "max": 280,
+        "prom": 279.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 74,
+        "max": 74,
+        "prom": 74.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:57:54",
+    "metricas": {
+      "cpu": {
+        "n": 28,
+        "min": 6.2,
+        "max": 69.4,
+        "prom": 19.36
+      },
+      "memoria": {
+        "n": 28,
+        "min": 69.0,
+        "max": 76.5,
+        "prom": 73.02
+      },
+      "red": {
+        "n": 28,
+        "min": 4.1,
+        "max": 253.8,
+        "prom": 41.87
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 279,
+        "max": 280,
+        "prom": 279.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 74,
+        "max": 74,
+        "prom": 74.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:58:25",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 9.9,
+        "max": 54.2,
+        "prom": 24.47
+      },
+      "memoria": {
+        "n": 29,
+        "min": 67.7,
+        "max": 72.9,
+        "prom": 69.26
+      },
+      "red": {
+        "n": 29,
+        "min": 2.4,
+        "max": 28.4,
+        "prom": 8.18
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 277,
+        "max": 283,
+        "prom": 279.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 74,
+        "max": 75,
+        "prom": 74.67
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:58:56",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.3,
+        "max": 36.0,
+        "prom": 16.34
+      },
+      "memoria": {
+        "n": 29,
+        "min": 58.2,
+        "max": 67.5,
+        "prom": 61.37
+      },
+      "red": {
+        "n": 29,
+        "min": 2.3,
+        "max": 20.1,
+        "prom": 7.57
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 258,
+        "max": 277,
+        "prom": 265.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 75,
+        "max": 75,
+        "prom": 75.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:59:26",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 2.1,
+        "max": 15.0,
+        "prom": 7.54
+      },
+      "memoria": {
+        "n": 29,
+        "min": 57.6,
+        "max": 58.3,
+        "prom": 57.83
+      },
+      "red": {
+        "n": 29,
+        "min": 2.8,
+        "max": 23.9,
+        "prom": 6.71
+      },
+      "disco": {
+        "n": 5,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 5,
+        "min": 258,
+        "max": 260,
+        "prom": 259.6
+      },
+      "bateria": {
+        "n": 5,
+        "min": 75,
+        "max": 75,
+        "prom": 75.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 15:59:56",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 3.8,
+        "max": 23.1,
+        "prom": 11.06
+      },
+      "memoria": {
+        "n": 29,
+        "min": 57.7,
+        "max": 58.5,
+        "prom": 58.05
+      },
+      "red": {
+        "n": 29,
+        "min": 1.3,
+        "max": 1134.3,
+        "prom": 49.49
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 258,
+        "max": 259,
+        "prom": 258.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 75,
+        "max": 76,
+        "prom": 75.67
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 16:00:26",
+    "metricas": {
+      "cpu": {
+        "n": 29,
+        "min": 4.7,
+        "max": 35.6,
+        "prom": 16.42
+      },
+      "memoria": {
+        "n": 29,
+        "min": 58.2,
+        "max": 59.3,
+        "prom": 58.63
+      },
+      "red": {
+        "n": 29,
+        "min": 1.1,
+        "max": 1302.4,
+        "prom": 56.64
+      },
+      "disco": {
+        "n": 6,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 259,
+        "max": 260,
+        "prom": 259.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 76,
+        "max": 76,
+        "prom": 76.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-16 16:00:42",
+    "metricas": {
+      "cpu": {
+        "n": 15,
+        "min": 8.6,
+        "max": 38.3,
+        "prom": 19.03
+      },
+      "memoria": {
+        "n": 15,
+        "min": 58.8,
+        "max": 59.3,
+        "prom": 59.04
+      },
+      "red": {
+        "n": 15,
+        "min": 3.7,
+        "max": 82.1,
+        "prom": 14.45
+      },
+      "disco": {
+        "n": 3,
+        "min": 60.5,
+        "max": 60.5,
+        "prom": 60.5
+      },
+      "procesos": {
+        "n": 3,
+        "min": 259,
+        "max": 260,
+        "prom": 259.33
+      },
+      "bateria": {
+        "n": 3,
+        "min": 76,
+        "max": 76,
+        "prom": 76.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 14:03:43",
+    "metricas": {}
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 14:11:11",
+    "metricas": {}
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 14:13:35",
+    "metricas": {
+      "cpu": {
+        "n": 12,
+        "min": 16.3,
+        "max": 53.5,
+        "prom": 28.56
+      },
+      "memoria": {
+        "n": 12,
+        "min": 76.0,
+        "max": 76.4,
+        "prom": 76.23
+      },
+      "red": {
+        "n": 12,
+        "min": 4.0,
+        "max": 194.0,
+        "prom": 26.79
+      },
+      "disco": {
+        "n": 2,
+        "min": 61.4,
+        "max": 61.4,
+        "prom": 61.4
+      },
+      "procesos": {
+        "n": 2,
+        "min": 283,
+        "max": 285,
+        "prom": 284.0
+      },
+      "bateria": {
+        "n": 2,
+        "min": 74,
+        "max": 74,
+        "prom": 74.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 14:13:50",
+    "metricas": {
+      "cpu": {
+        "n": 11,
+        "min": 22.9,
+        "max": 62.4,
+        "prom": 37.86
+      },
+      "memoria": {
+        "n": 11,
+        "min": 75.9,
+        "max": 76.3,
+        "prom": 76.1
+      },
+      "red": {
+        "n": 11,
+        "min": 5.0,
+        "max": 129.0,
+        "prom": 26.52
+      },
+      "disco": {
+        "n": 3,
+        "min": 61.4,
+        "max": 61.4,
+        "prom": 61.4
+      },
+      "procesos": {
+        "n": 3,
+        "min": 283,
+        "max": 285,
+        "prom": 283.67
+      },
+      "bateria": {
+        "n": 3,
+        "min": 74,
+        "max": 75,
+        "prom": 74.33
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 14:15:05",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 19.2,
+        "max": 51.2,
+        "prom": 29.4
+      },
+      "memoria": {
+        "n": 24,
+        "min": 75.6,
+        "max": 76.0,
+        "prom": 75.77
+      },
+      "red": {
+        "n": 24,
+        "min": 6.8,
+        "max": 373.1,
+        "prom": 31.99
+      },
+      "disco": {
+        "n": 5,
+        "min": 61.4,
+        "max": 61.4,
+        "prom": 61.4
+      },
+      "procesos": {
+        "n": 5,
+        "min": 289,
+        "max": 289,
+        "prom": 289.0
+      },
+      "bateria": {
+        "n": 5,
+        "min": 75,
+        "max": 76,
+        "prom": 75.2
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 14:15:35",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 18.5,
+        "max": 37.0,
+        "prom": 26.18
+      },
+      "memoria": {
+        "n": 23,
+        "min": 75.4,
+        "max": 76.4,
+        "prom": 75.84
+      },
+      "red": {
+        "n": 23,
+        "min": 8.2,
+        "max": 43.9,
+        "prom": 20.8
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.4,
+        "max": 61.4,
+        "prom": 61.4
+      },
+      "procesos": {
+        "n": 6,
+        "min": 286,
+        "max": 289,
+        "prom": 286.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 76,
+        "max": 76,
+        "prom": 76.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 14:16:05",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 21.0,
+        "max": 54.2,
+        "prom": 32.47
+      },
+      "memoria": {
+        "n": 23,
+        "min": 75.6,
+        "max": 77.2,
+        "prom": 76.1
+      },
+      "red": {
+        "n": 23,
+        "min": 8.2,
+        "max": 33.1,
+        "prom": 16.04
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.4,
+        "max": 61.4,
+        "prom": 61.4
+      },
+      "procesos": {
+        "n": 6,
+        "min": 285,
+        "max": 291,
+        "prom": 286.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 76,
+        "max": 76,
+        "prom": 76.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 14:37:46",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 0.0,
+        "max": 67.1,
+        "prom": 19.48
+      },
+      "memoria": {
+        "n": 23,
+        "min": 77.4,
+        "max": 78.1,
+        "prom": 77.77
+      },
+      "red": {
+        "n": 23,
+        "min": 2.7,
+        "max": 337.5,
+        "prom": 25.06
+      },
+      "disco": {
+        "n": 5,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 5,
+        "min": 284,
+        "max": 284,
+        "prom": 284.0
+      },
+      "bateria": {
+        "n": 5,
+        "min": 51,
+        "max": 51,
+        "prom": 51.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 14:38:16",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 15.0,
+        "max": 75.6,
+        "prom": 34.5
+      },
+      "memoria": {
+        "n": 24,
+        "min": 79.0,
+        "max": 80.6,
+        "prom": 80.28
+      },
+      "red": {
+        "n": 24,
+        "min": 1.8,
+        "max": 74.2,
+        "prom": 13.57
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 285,
+        "max": 288,
+        "prom": 287.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 49,
+        "max": 50,
+        "prom": 49.83
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 14:38:47",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 14.0,
+        "max": 37.7,
+        "prom": 24.81
+      },
+      "memoria": {
+        "n": 23,
+        "min": 79.6,
+        "max": 80.1,
+        "prom": 79.78
+      },
+      "red": {
+        "n": 23,
+        "min": 4.4,
+        "max": 21.7,
+        "prom": 10.81
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.4,
+        "max": 61.5,
+        "prom": 61.42
+      },
+      "procesos": {
+        "n": 6,
+        "min": 284,
+        "max": 287,
+        "prom": 285.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 48,
+        "max": 49,
+        "prom": 48.83
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 14:39:17",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 14.9,
+        "max": 95.7,
+        "prom": 30.56
+      },
+      "memoria": {
+        "n": 24,
+        "min": 78.7,
+        "max": 80.6,
+        "prom": 79.53
+      },
+      "red": {
+        "n": 24,
+        "min": 2.9,
+        "max": 19.7,
+        "prom": 8.95
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.4,
+        "max": 61.4,
+        "prom": 61.4
+      },
+      "procesos": {
+        "n": 6,
+        "min": 283,
+        "max": 284,
+        "prom": 283.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 47,
+        "max": 48,
+        "prom": 47.83
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 14:39:47",
+    "metricas": {
+      "cpu": {
+        "n": 19,
+        "min": 16.0,
+        "max": 44.9,
+        "prom": 24.89
+      },
+      "memoria": {
+        "n": 19,
+        "min": 78.7,
+        "max": 79.3,
+        "prom": 79.06
+      },
+      "red": {
+        "n": 19,
+        "min": 0.9,
+        "max": 17.9,
+        "prom": 10.45
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.4,
+        "max": 61.4,
+        "prom": 61.4
+      },
+      "procesos": {
+        "n": 6,
+        "min": 283,
+        "max": 285,
+        "prom": 284.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 46,
+        "max": 47,
+        "prom": 46.83
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 14:40:18",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 16.4,
+        "max": 57.9,
+        "prom": 27.46
+      },
+      "memoria": {
+        "n": 23,
+        "min": 78.9,
+        "max": 79.3,
+        "prom": 79.07
+      },
+      "red": {
+        "n": 23,
+        "min": 5.4,
+        "max": 27.3,
+        "prom": 12.22
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.4,
+        "max": 61.4,
+        "prom": 61.4
+      },
+      "procesos": {
+        "n": 6,
+        "min": 283,
+        "max": 285,
+        "prom": 284.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 45,
+        "max": 46,
+        "prom": 45.83
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 14:40:49",
+    "metricas": {
+      "cpu": {
+        "n": 22,
+        "min": 17.0,
+        "max": 42.2,
+        "prom": 25.8
+      },
+      "memoria": {
+        "n": 22,
+        "min": 79.2,
+        "max": 79.8,
+        "prom": 79.47
+      },
+      "red": {
+        "n": 22,
+        "min": 5.3,
+        "max": 55.0,
+        "prom": 14.03
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.4,
+        "max": 61.4,
+        "prom": 61.4
+      },
+      "procesos": {
+        "n": 6,
+        "min": 285,
+        "max": 285,
+        "prom": 285.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 44,
+        "max": 45,
+        "prom": 44.83
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 14:41:07",
+    "metricas": {
+      "cpu": {
+        "n": 13,
+        "min": 18.7,
+        "max": 48.4,
+        "prom": 35.52
+      },
+      "memoria": {
+        "n": 13,
+        "min": 77.6,
+        "max": 80.4,
+        "prom": 78.88
+      },
+      "red": {
+        "n": 13,
+        "min": 7.0,
+        "max": 25.0,
+        "prom": 14.87
+      },
+      "disco": {
+        "n": 3,
+        "min": 61.4,
+        "max": 61.4,
+        "prom": 61.4
+      },
+      "procesos": {
+        "n": 3,
+        "min": 283,
+        "max": 286,
+        "prom": 285.0
+      },
+      "bateria": {
+        "n": 3,
+        "min": 44,
+        "max": 44,
+        "prom": 44.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:31:59",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 25.8,
+        "max": 66.7,
+        "prom": 42.73
+      },
+      "memoria": {
+        "n": 23,
+        "min": 82.8,
+        "max": 85.1,
+        "prom": 83.62
+      },
+      "red": {
+        "n": 23,
+        "min": 7.0,
+        "max": 376.3,
+        "prom": 78.39
+      },
+      "disco": {
+        "n": 5,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 5,
+        "min": 286,
+        "max": 290,
+        "prom": 287.8
+      },
+      "bateria": {
+        "n": 5,
+        "min": 77,
+        "max": 77,
+        "prom": 77.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:32:29",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 15.9,
+        "max": 58.1,
+        "prom": 37.07
+      },
+      "memoria": {
+        "n": 24,
+        "min": 82.4,
+        "max": 84.4,
+        "prom": 83.81
+      },
+      "red": {
+        "n": 24,
+        "min": 12.2,
+        "max": 168.4,
+        "prom": 46.86
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 286,
+        "max": 295,
+        "prom": 288.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 77,
+        "max": 77,
+        "prom": 77.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:32:47",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 21.4,
+        "max": 85.5,
+        "prom": 47.22
+      },
+      "memoria": {
+        "n": 24,
+        "min": 82.3,
+        "max": 84.4,
+        "prom": 83.58
+      },
+      "red": {
+        "n": 24,
+        "min": 8.2,
+        "max": 140.7,
+        "prom": 29.14
+      },
+      "disco": {
+        "n": 5,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 5,
+        "min": 291,
+        "max": 296,
+        "prom": 293.4
+      },
+      "bateria": {
+        "n": 5,
+        "min": 77,
+        "max": 77,
+        "prom": 77.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:32:59",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 32.3,
+        "max": 84.3,
+        "prom": 57.01
+      },
+      "memoria": {
+        "n": 24,
+        "min": 82.4,
+        "max": 85.0,
+        "prom": 83.82
+      },
+      "red": {
+        "n": 24,
+        "min": 5.9,
+        "max": 98.9,
+        "prom": 38.07
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 291,
+        "max": 296,
+        "prom": 291.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 77,
+        "max": 78,
+        "prom": 77.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:33:17",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 31.3,
+        "max": 83.0,
+        "prom": 55.43
+      },
+      "memoria": {
+        "n": 23,
+        "min": 84.2,
+        "max": 87.3,
+        "prom": 84.83
+      },
+      "red": {
+        "n": 23,
+        "min": 16.1,
+        "max": 93.4,
+        "prom": 39.99
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 288,
+        "max": 291,
+        "prom": 290.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 78,
+        "max": 78,
+        "prom": 78.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:33:29",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 32.2,
+        "max": 90.7,
+        "prom": 56.63
+      },
+      "memoria": {
+        "n": 24,
+        "min": 84.0,
+        "max": 87.3,
+        "prom": 85.0
+      },
+      "red": {
+        "n": 24,
+        "min": 14.5,
+        "max": 137.3,
+        "prom": 44.16
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 288,
+        "max": 292,
+        "prom": 290.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 78,
+        "max": 78,
+        "prom": 78.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:33:47",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 23.6,
+        "max": 81.1,
+        "prom": 49.83
+      },
+      "memoria": {
+        "n": 23,
+        "min": 83.9,
+        "max": 86.2,
+        "prom": 85.26
+      },
+      "red": {
+        "n": 23,
+        "min": 5.5,
+        "max": 168.3,
+        "prom": 40.23
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 290,
+        "max": 299,
+        "prom": 294.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 78,
+        "max": 78,
+        "prom": 78.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:33:59",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 23.8,
+        "max": 71.9,
+        "prom": 46.18
+      },
+      "memoria": {
+        "n": 23,
+        "min": 82.8,
+        "max": 85.7,
+        "prom": 84.83
+      },
+      "red": {
+        "n": 23,
+        "min": 8.6,
+        "max": 144.1,
+        "prom": 37.26
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 292,
+        "max": 302,
+        "prom": 297.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 78,
+        "max": 78,
+        "prom": 78.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:34:17",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 22.2,
+        "max": 72.2,
+        "prom": 37.55
+      },
+      "memoria": {
+        "n": 24,
+        "min": 82.7,
+        "max": 85.1,
+        "prom": 83.26
+      },
+      "red": {
+        "n": 24,
+        "min": 10.0,
+        "max": 266.1,
+        "prom": 38.19
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 289,
+        "max": 302,
+        "prom": 293.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 78,
+        "max": 79,
+        "prom": 78.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:34:29",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 23.3,
+        "max": 48.0,
+        "prom": 33.37
+      },
+      "memoria": {
+        "n": 24,
+        "min": 81.9,
+        "max": 82.9,
+        "prom": 82.58
+      },
+      "red": {
+        "n": 24,
+        "min": 6.9,
+        "max": 318.7,
+        "prom": 32.16
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 288,
+        "max": 292,
+        "prom": 289.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 79,
+        "max": 79,
+        "prom": 79.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:34:47",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 19.2,
+        "max": 43.7,
+        "prom": 31.9
+      },
+      "memoria": {
+        "n": 24,
+        "min": 81.9,
+        "max": 82.5,
+        "prom": 82.19
+      },
+      "red": {
+        "n": 24,
+        "min": 9.0,
+        "max": 31.9,
+        "prom": 21.87
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 288,
+        "max": 289,
+        "prom": 288.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 79,
+        "max": 79,
+        "prom": 79.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:35:00",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 21.1,
+        "max": 51.4,
+        "prom": 34.98
+      },
+      "memoria": {
+        "n": 24,
+        "min": 81.9,
+        "max": 82.6,
+        "prom": 82.28
+      },
+      "red": {
+        "n": 24,
+        "min": 14.8,
+        "max": 318.0,
+        "prom": 38.05
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 288,
+        "max": 288,
+        "prom": 288.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 79,
+        "max": 79,
+        "prom": 79.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:35:17",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 27.8,
+        "max": 90.6,
+        "prom": 49.32
+      },
+      "memoria": {
+        "n": 23,
+        "min": 82.3,
+        "max": 84.9,
+        "prom": 83.37
+      },
+      "red": {
+        "n": 23,
+        "min": 11.4,
+        "max": 321.8,
+        "prom": 64.39
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 288,
+        "max": 291,
+        "prom": 289.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 79,
+        "max": 79,
+        "prom": 79.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:35:31",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 13.7,
+        "max": 88.5,
+        "prom": 43.9
+      },
+      "memoria": {
+        "n": 23,
+        "min": 82.5,
+        "max": 85.2,
+        "prom": 84.53
+      },
+      "red": {
+        "n": 23,
+        "min": 9.2,
+        "max": 232.8,
+        "prom": 46.31
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 291,
+        "max": 296,
+        "prom": 292.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 79,
+        "max": 79,
+        "prom": 79.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:35:47",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 12.3,
+        "max": 58.7,
+        "prom": 35.9
+      },
+      "memoria": {
+        "n": 24,
+        "min": 82.4,
+        "max": 85.3,
+        "prom": 84.13
+      },
+      "red": {
+        "n": 24,
+        "min": 3.2,
+        "max": 337.2,
+        "prom": 30.27
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 290,
+        "max": 298,
+        "prom": 293.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 79,
+        "max": 80,
+        "prom": 79.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:40:38",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 16.7,
+        "max": 56.4,
+        "prom": 29.55
+      },
+      "memoria": {
+        "n": 24,
+        "min": 76.6,
+        "max": 77.9,
+        "prom": 77.41
+      },
+      "red": {
+        "n": 24,
+        "min": 5.5,
+        "max": 527.5,
+        "prom": 35.15
+      },
+      "disco": {
+        "n": 5,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 5,
+        "min": 282,
+        "max": 288,
+        "prom": 286.0
+      },
+      "bateria": {
+        "n": 5,
+        "min": 83,
+        "max": 83,
+        "prom": 83.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:41:08",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 12.5,
+        "max": 48.7,
+        "prom": 26.72
+      },
+      "memoria": {
+        "n": 23,
+        "min": 76.6,
+        "max": 77.5,
+        "prom": 77.0
+      },
+      "red": {
+        "n": 23,
+        "min": 4.9,
+        "max": 529.1,
+        "prom": 53.6
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 282,
+        "max": 289,
+        "prom": 286.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 83,
+        "max": 83,
+        "prom": 83.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:41:28",
+    "metricas": {
+      "cpu": {
+        "n": 16,
+        "min": 18.6,
+        "max": 34.7,
+        "prom": 26.51
+      },
+      "memoria": {
+        "n": 16,
+        "min": 76.7,
+        "max": 77.4,
+        "prom": 77.23
+      },
+      "red": {
+        "n": 16,
+        "min": 3.0,
+        "max": 46.9,
+        "prom": 12.75
+      },
+      "disco": {
+        "n": 4,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 4,
+        "min": 282,
+        "max": 291,
+        "prom": 288.0
+      },
+      "bateria": {
+        "n": 4,
+        "min": 83,
+        "max": 83,
+        "prom": 83.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:41:47",
+    "metricas": {
+      "cpu": {
+        "n": 5,
+        "min": 0.0,
+        "max": 56.8,
+        "prom": 32.56
+      },
+      "memoria": {
+        "n": 5,
+        "min": 78.2,
+        "max": 78.9,
+        "prom": 78.46
+      },
+      "red": {
+        "n": 5,
+        "min": 4.1,
+        "max": 35.2,
+        "prom": 13.7
+      },
+      "disco": {
+        "n": 1,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 1,
+        "min": 291,
+        "max": 291,
+        "prom": 291.0
+      },
+      "bateria": {
+        "n": 1,
+        "min": 83,
+        "max": 83,
+        "prom": 83.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:42:46",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 0.0,
+        "max": 47.6,
+        "prom": 28.3
+      },
+      "memoria": {
+        "n": 24,
+        "min": 77.4,
+        "max": 79.9,
+        "prom": 78.98
+      },
+      "red": {
+        "n": 24,
+        "min": 6.2,
+        "max": 558.6,
+        "prom": 62.32
+      },
+      "disco": {
+        "n": 5,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 5,
+        "min": 283,
+        "max": 287,
+        "prom": 284.0
+      },
+      "bateria": {
+        "n": 5,
+        "min": 84,
+        "max": 84,
+        "prom": 84.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:43:16",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 17.6,
+        "max": 48.6,
+        "prom": 29.84
+      },
+      "memoria": {
+        "n": 23,
+        "min": 77.4,
+        "max": 78.1,
+        "prom": 77.77
+      },
+      "red": {
+        "n": 23,
+        "min": 9.5,
+        "max": 668.6,
+        "prom": 100.93
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 282,
+        "max": 282,
+        "prom": 282.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 84,
+        "max": 84,
+        "prom": 84.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:43:46",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 21.4,
+        "max": 64.7,
+        "prom": 32.7
+      },
+      "memoria": {
+        "n": 24,
+        "min": 77.6,
+        "max": 79.3,
+        "prom": 78.57
+      },
+      "red": {
+        "n": 24,
+        "min": 11.2,
+        "max": 33.2,
+        "prom": 20.88
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 282,
+        "max": 284,
+        "prom": 283.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 84,
+        "max": 85,
+        "prom": 84.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:44:16",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 14.1,
+        "max": 38.1,
+        "prom": 27.77
+      },
+      "memoria": {
+        "n": 24,
+        "min": 78.4,
+        "max": 79.2,
+        "prom": 78.86
+      },
+      "red": {
+        "n": 24,
+        "min": 10.7,
+        "max": 46.5,
+        "prom": 22.68
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 283,
+        "max": 286,
+        "prom": 284.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 85,
+        "max": 85,
+        "prom": 85.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:44:46",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 14.0,
+        "max": 39.8,
+        "prom": 26.72
+      },
+      "memoria": {
+        "n": 23,
+        "min": 77.9,
+        "max": 78.9,
+        "prom": 78.38
+      },
+      "red": {
+        "n": 23,
+        "min": 12.4,
+        "max": 65.2,
+        "prom": 24.71
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 283,
+        "max": 285,
+        "prom": 284.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 85,
+        "max": 85,
+        "prom": 85.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:45:16",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 13.5,
+        "max": 53.1,
+        "prom": 31.83
+      },
+      "memoria": {
+        "n": 24,
+        "min": 78.0,
+        "max": 78.9,
+        "prom": 78.34
+      },
+      "red": {
+        "n": 24,
+        "min": 5.0,
+        "max": 654.4,
+        "prom": 85.67
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 283,
+        "max": 288,
+        "prom": 284.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 85,
+        "max": 86,
+        "prom": 85.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:45:46",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 12.3,
+        "max": 48.4,
+        "prom": 31.57
+      },
+      "memoria": {
+        "n": 23,
+        "min": 78.7,
+        "max": 79.5,
+        "prom": 79.23
+      },
+      "red": {
+        "n": 23,
+        "min": 6.2,
+        "max": 37.0,
+        "prom": 16.17
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 289,
+        "max": 293,
+        "prom": 289.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 86,
+        "max": 86,
+        "prom": 86.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:46:16",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 22.6,
+        "max": 64.3,
+        "prom": 41.94
+      },
+      "memoria": {
+        "n": 24,
+        "min": 78.8,
+        "max": 81.2,
+        "prom": 80.16
+      },
+      "red": {
+        "n": 24,
+        "min": 15.0,
+        "max": 686.2,
+        "prom": 74.57
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 287,
+        "max": 289,
+        "prom": 287.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 86,
+        "max": 86,
+        "prom": 86.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:46:47",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 12.7,
+        "max": 58.1,
+        "prom": 32.94
+      },
+      "memoria": {
+        "n": 24,
+        "min": 78.4,
+        "max": 81.9,
+        "prom": 79.67
+      },
+      "red": {
+        "n": 24,
+        "min": 7.2,
+        "max": 56.9,
+        "prom": 24.46
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 289,
+        "max": 295,
+        "prom": 291.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 86,
+        "max": 86,
+        "prom": 86.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:47:17",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 12.4,
+        "max": 54.8,
+        "prom": 25.91
+      },
+      "memoria": {
+        "n": 24,
+        "min": 76.9,
+        "max": 77.6,
+        "prom": 77.22
+      },
+      "red": {
+        "n": 24,
+        "min": 9.0,
+        "max": 679.6,
+        "prom": 46.41
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 285,
+        "max": 286,
+        "prom": 285.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 86,
+        "max": 87,
+        "prom": 86.67
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:47:48",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 18.0,
+        "max": 57.8,
+        "prom": 34.34
+      },
+      "memoria": {
+        "n": 24,
+        "min": 77.0,
+        "max": 81.7,
+        "prom": 79.9
+      },
+      "red": {
+        "n": 24,
+        "min": 7.2,
+        "max": 523.7,
+        "prom": 92.2
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 285,
+        "max": 293,
+        "prom": 289.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 87,
+        "max": 87,
+        "prom": 87.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:48:19",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 16.7,
+        "max": 66.8,
+        "prom": 35.76
+      },
+      "memoria": {
+        "n": 24,
+        "min": 79.3,
+        "max": 81.7,
+        "prom": 80.64
+      },
+      "red": {
+        "n": 24,
+        "min": 7.7,
+        "max": 671.0,
+        "prom": 101.89
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 287,
+        "max": 288,
+        "prom": 287.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 87,
+        "max": 87,
+        "prom": 87.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:48:49",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 17.4,
+        "max": 42.9,
+        "prom": 25.95
+      },
+      "memoria": {
+        "n": 24,
+        "min": 79.2,
+        "max": 79.8,
+        "prom": 79.42
+      },
+      "red": {
+        "n": 24,
+        "min": 2.8,
+        "max": 666.5,
+        "prom": 46.73
+      },
+      "disco": {
+        "n": 6,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 286,
+        "max": 292,
+        "prom": 287.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 87,
+        "max": 88,
+        "prom": 87.33
+      }
+    }
+  },
+  {
+    "nodo": "laptop-QuerubeAriza",
+    "ubicacion": "Querube Ariza - Laboratorio 3 FISC",
+    "hora": "2026-09-30 15:49:06",
+    "metricas": {
+      "cpu": {
+        "n": 13,
+        "min": 23.4,
+        "max": 82.3,
+        "prom": 47.02
+      },
+      "memoria": {
+        "n": 13,
+        "min": 79.7,
+        "max": 81.3,
+        "prom": 80.9
+      },
+      "red": {
+        "n": 13,
+        "min": 3.1,
+        "max": 681.4,
+        "prom": 82.71
+      },
+      "disco": {
+        "n": 3,
+        "min": 61.5,
+        "max": 61.5,
+        "prom": 61.5
+      },
+      "procesos": {
+        "n": 3,
+        "min": 289,
+        "max": 294,
+        "prom": 290.67
+      },
+      "bateria": {
+        "n": 3,
+        "min": 88,
+        "max": 88,
+        "prom": 88.0
+      }
+    }
+  }
+]

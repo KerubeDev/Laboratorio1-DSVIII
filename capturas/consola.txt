@@ -1,0 +1,65 @@
+==========================================================================
+ NODO laptop-QuerubeAriza | Querube Ariza - Laboratorio 3 FISC | 14:38:55
+==========================================================================
+ Uso de CPU     [############ - - - - - - - - - - - - - - - -]    43.1 %
+                8 nucleos | 987 MHz
+ Memoria RAM    [################### - - - - - - - - -]    68.7 %
+                10.8 de 15.7 GB | swap 3%
+ Disco          [################ - - - - - - - - - - - -]    60.4 %
+                188.3 GB libres de 475.5 GB
+ Red            [ - - - - - - - - - - - - - - - - - - - - - - - - - - - -]     3.5 KB/s
+                sube 0.0 | baja 3.5 KB/s | total 937 MB
+ Procesos       [################### - - - - - - - - -]     273 procs
+                sin proceso dominante
+ Bateria        [###### - - - - - - - - - - - - - - - - - - - - - -]      23 %
+                en bateria | quedan 0h 17m
+--------------------------------------------------------------------------
+ Ultimos eventos:
+   14:38:54  [INFO  ] Nodo laptop-QuerubeAriza iniciado | sensores activos
+   14:38:54  [AVISO ] El sistema empezo a usar memoria de intercambio
+--------------------------------------------------------------------------
+ Ctrl+C para terminar
+
+==========================================================================
+ NODO laptop-QuerubeAriza | Querube Ariza - Laboratorio 3 FISC | 14:38:56
+==========================================================================
+ Uso de CPU     [############ - - - - - - - - - - - - - - - -]    43.1 %
+                8 nucleos | 987 MHz
+ Memoria RAM    [################### - - - - - - - - -]    68.7 %
+                10.8 de 15.7 GB | swap 3%
+ Disco          [################ - - - - - - - - - - - -]    60.4 %
+                188.3 GB libres de 475.5 GB
+ Red            [ - - - - - - - - - - - - - - - - - - - - - - - - - - - -]     3.5 KB/s
+                sube 0.0 | baja 3.5 KB/s | total 937 MB
+ Procesos       [################### - - - - - - - - -]     273 procs
+                sin proceso dominante
+ Bateria        [###### - - - - - - - - - - - - - - - - - - - - - -]      23 %
+                en bateria | quedan 0h 17m
+--------------------------------------------------------------------------
+ Ultimos eventos:
+   14:38:54  [INFO  ] Nodo laptop-QuerubeAriza iniciado | sensores activos
+   14:38:54  [AVISO ] El sistema empezo a usar memoria de intercambio
+--------------------------------------------------------------------------
+ Ctrl+C para terminar
+
+==========================================================================
+ NODO laptop-QuerubeAriza | Querube Ariza - Laboratorio 3 FISC | 14:38:57
+==========================================================================
+ Uso de CPU     [#### - - - - - - - - - - - - - - - - - - - - - - - -]    15.2 %
+                8 nucleos | 1382 MHz
+ Memoria RAM    [################### - - - - - - - - -]    68.8 %
+                10.8 de 15.7 GB | swap 3%
+ Disco          [################ - - - - - - - - - - - -]    60.4 %
+                188.3 GB libres de 475.5 GB
+ Red            [ - - - - - - - - - - - - - - - - - - - - - - - - - - - -]     3.2 KB/s
+                sube 0.0 | baja 3.2 KB/s | total 937 MB
+ Procesos       [################### - - - - - - - - -]     273 procs
+                sin proceso dominante
+ Bateria        [###### - - - - - - - - - - - - - - - - - - - - - -]      23 %
+                en bateria | quedan 0h 17m
+--------------------------------------------------------------------------
+ Ultimos eventos:
+   14:38:54  [INFO  ] Nodo laptop-QuerubeAriza iniciado | sensores activos
+   14:38:54  [AVISO ] El sistema empezo a usar memoria de intercambio
+--------------------------------------------------------------------------
+ Ctrl+C para terminar

@@ -1,0 +1,15 @@
+Revision del entorno
+----------------------------------------
+  psutil          OK  (version 7.2.2)
+  tkinter         OK  (Tk 8.6)
+----------------------------------------
+  Uso de CPU     disponible
+  Memoria RAM    disponible
+  Disco          disponible
+  Red            disponible
+  Procesos       disponible
+  Bateria        disponible
+----------------------------------------
+La bateria aparece como NO disponible en computadoras de
+escritorio. No es un error: es un sensor ausente y el
+programa lo maneja como tal.

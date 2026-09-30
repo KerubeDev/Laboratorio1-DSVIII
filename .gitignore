@@ -1,0 +1,11 @@
+# Entorno virtual de Python
+entorno/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Archivos locales de herramientas
+.kilo/
+.idea/
+.vscode/

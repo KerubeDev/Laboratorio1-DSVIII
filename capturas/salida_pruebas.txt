@@ -1,0 +1,48 @@
+test_estado_indeterminado_no_se_arriesga (pruebas.test_conexion_red.TestFlanco.test_estado_indeterminado_no_se_arriesga) ... ok
+test_flanco_de_perdida (pruebas.test_conexion_red.TestFlanco.test_flanco_de_perdida) ... ok
+test_flanco_de_recuperacion_informa_la_duracion (pruebas.test_conexion_red.TestFlanco.test_flanco_de_recuperacion_informa_la_duracion) ... ok
+test_primera_muestra_solo_fija_la_base (pruebas.test_conexion_red.TestFlanco.test_primera_muestra_solo_fija_la_base) ... ok
+test_rebote_no_produce_flanco (pruebas.test_conexion_red.TestFlanco.test_rebote_no_produce_flanco) ... ok
+test_ignora_loopback_y_adaptadores_virtuales (pruebas.test_conexion_red.TestInterfaces.test_ignora_loopback_y_adaptadores_virtuales) ... ok
+test_interfaz_activa_sin_direccion_no_cuenta (pruebas.test_conexion_red.TestInterfaces.test_interfaz_activa_sin_direccion_no_cuenta) ... ok
+test_si_psutil_falla_no_hay_dato (pruebas.test_conexion_red.TestInterfaces.test_si_psutil_falla_no_hay_dato) ... ok
+test_sin_interfaces_no_hay_dato (pruebas.test_conexion_red.TestInterfaces.test_sin_interfaces_no_hay_dato) ... ok
+test_todas_las_interfaces_reales_caidas (pruebas.test_conexion_red.TestInterfaces.test_todas_las_interfaces_reales_caidas) ... ok
+test_al_recuperar_se_detiene_el_recordatorio (pruebas.test_conexion_red.TestRecordatorio.test_al_recuperar_se_detiene_el_recordatorio) ... ok
+test_el_recordatorio_se_repite_mientras_dure_la_caida (pruebas.test_conexion_red.TestRecordatorio.test_el_recordatorio_se_repite_mientras_dure_la_caida) ... ok
+test_recordatorio_solo_despues_del_periodo (pruebas.test_conexion_red.TestRecordatorio.test_recordatorio_solo_despues_del_periodo) ... ok
+test_al_recuperar_el_ciclo_lo_anuncia (pruebas.test_integracion.TestCiclo.test_al_recuperar_el_ciclo_lo_anuncia) ... ok
+test_el_ciclo_despacha_la_perdida_de_red (pruebas.test_integracion.TestCiclo.test_el_ciclo_despacha_la_perdida_de_red) ... ok
+test_el_ciclo_dispara_el_recordatorio_por_tiempo (pruebas.test_integracion.TestCiclo.test_el_ciclo_dispara_el_recordatorio_por_tiempo)
+El aviso no lo dispara un sensor: lo dispara el reloj. ... ok
+test_las_lecturas_siguen_llegando_con_el_sonido_activo (pruebas.test_integracion.TestCiclo.test_las_lecturas_siguen_llegando_con_el_sonido_activo)
+Encender el reproductor no cambia la forma del ciclo. ... ok
+test_atender_encola_el_sonido_del_evento (pruebas.test_integracion.TestDespachador.test_atender_encola_el_sonido_del_evento) ... ok
+test_los_eventos_de_conexion_tienen_manejador (pruebas.test_integracion.TestDespachador.test_los_eventos_de_conexion_tienen_manejador) ... ok
+test_sin_manejador_no_suena (pruebas.test_integracion.TestDespachador.test_sin_manejador_no_suena) ... ok
+test_todos_los_eventos_con_sonido_tienen_manejador (pruebas.test_integracion.TestDespachador.test_todos_los_eventos_con_sonido_tienen_manejador) ... ok
+test_niveles_esperados (pruebas.test_integracion.TestManejadoresDeConexion.test_niveles_esperados) ... ok
+test_al_silenciar_se_vacia_la_cola (pruebas.test_sonidos.TestCola.test_al_silenciar_se_vacia_la_cola) ... ok
+test_apagado_no_encola (pruebas.test_sonidos.TestCola.test_apagado_no_encola) ... ok
+test_cadencia_por_marca_de_tiempo (pruebas.test_sonidos.TestCola.test_cadencia_por_marca_de_tiempo) ... ok
+test_encolar_es_inmediato_y_no_reproduce (pruebas.test_sonidos.TestCola.test_encolar_es_inmediato_y_no_reproduce) ... ok
+test_encolar_no_arranca_el_hilo (pruebas.test_sonidos.TestCola.test_encolar_no_arranca_el_hilo) ... ok
+test_evento_sin_patron_no_suena (pruebas.test_sonidos.TestCola.test_evento_sin_patron_no_suena) ... ok
+test_la_cola_no_supera_su_tope (pruebas.test_sonidos.TestCola.test_la_cola_no_supera_su_tope) ... ok
+test_alerta_vencida_se_descarta (pruebas.test_sonidos.TestMarcasDeTiempo.test_alerta_vencida_se_descarta) ... ok
+test_alerta_vigente_se_entrega (pruebas.test_sonidos.TestMarcasDeTiempo.test_alerta_vigente_se_entrega) ... ok
+test_backend_en_silencio_no_lanza_error (pruebas.test_sonidos.TestPatrones.test_backend_en_silencio_no_lanza_error) ... ok
+test_cada_evento_apunta_a_un_patron_existente (pruebas.test_sonidos.TestPatrones.test_cada_evento_apunta_a_un_patron_existente) ... ok
+test_los_patrones_estan_bien_formados (pruebas.test_sonidos.TestPatrones.test_los_patrones_estan_bien_formados) ... ok
+test_sintetiza_un_wav_valido (pruebas.test_sonidos.TestPatrones.test_sintetiza_un_wav_valido) ... ok
+test_todos_los_patrones_sintetizan (pruebas.test_sonidos.TestPatrones.test_todos_los_patrones_sintetizan) ... ok
+test_el_boton_de_sonido_altera_el_reproductor (pruebas.test_ventana.TestVentana.test_el_boton_de_sonido_altera_el_reproductor) ... ok
+test_insignia_de_red_caida (pruebas.test_ventana.TestVentana.test_insignia_de_red_caida) ... ok
+test_insignia_de_red_conectada (pruebas.test_ventana.TestVentana.test_insignia_de_red_conectada) ... ok
+test_insignia_de_sonido_sigue_al_reproductor (pruebas.test_ventana.TestVentana.test_insignia_de_sonido_sigue_al_reproductor) ... ok
+test_refrescar_pinta_sin_errores (pruebas.test_ventana.TestVentana.test_refrescar_pinta_sin_errores) ... ok
+
+----------------------------------------------------------------------
+Ran 41 tests in 9.784s
+
+OK
